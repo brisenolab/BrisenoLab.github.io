@@ -1,7 +1,13 @@
 ---
 title: "BrisenoLab"
+page-layout: full
+format:
+  html:
+    toc: false
 ---
 
-This is a Quarto website.
+# Ricardo I. Alcalá Briseño, Ph.D.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Assistant Professor of Viral Ecology  
+Department of Plant Pathology and Environmental Microbiology  
+Penn State University

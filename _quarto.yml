@@ -8,14 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmdi
-      - href: research.qmd
+      - href: research/index.qmd
         text: Research
-      - href: publications.qmd
+      - href: publications/index.qmd
         text: Publications
-      - href: teaching.qmd
+      - href: teaching/index.qmd
         text: Teaching
-      - href: cv.qmd
+      - href: cv/index.qmd
         text: CV
 
 format:
@@ -24,11 +23,9 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: truei
-        link-external-newwindow: true
+    toc: false
+    link-external-newwindow: true
 
 bibliography: references.bib
-csl: nature.csl
-
-
+csl: science.csl
 

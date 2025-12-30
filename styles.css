@@ -1,1 +1,15 @@
-/* css styles */
+.hero {
+  background-image: url("assets/figures/Lake.png");
+  background-size: cover;
+  background-position: center;
+  padding: 4rem 3rem;
+  color: #111;
+}
+
+.icon-row {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  margin: 2rem 0;
+}
+

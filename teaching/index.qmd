@@ -1,0 +1,13 @@
+---
+title: Teaching
+---
+
+I taught two courses at Penn State, one 400-level on Viral Ecology (PPEM454), and two modules of the 500-level course of Fundamental of Plant Pathology (PPATH505).
+
+In the Viral Ecology course, I focus on the impact of viruses in natural ecosystems, their roles in major biogeochemical cycles, and their interactions with hosts. The course combines full lectures covering foundational knowledge of viruses—from taxonomy to virome analysis—with applied topics such as outbreaks, spillover events, zoonoses, and epidemics.
+I provide students with exposure to quantitative and disease ecology through applied bioinformatics workflows, including genome assembly and BLAST-based analyses.
+
+In Fundamentals of Plant Pathology, I cover pathogen biology, lifestyles, systematics, and evolution. In the first module, I provide a detailed introduction to the diverse lifestyles of plant pathogens, the traits that define pathogenicity, and the molecular arsenals—such as effector repertoires and genomic indicators—associated with host infection. In the second module, I focus on hands-on analyses of genome-based phylogenetics and evolutionary relationships among plant pathogens.
+
+I mentor a couple of grad students, and undergrad students in virology and bioinformatics. 
+

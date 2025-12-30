@@ -1,0 +1,126 @@
+---
+title: ""
+page-layout: full
+format:
+  html:
+    toc: false
+---
+
+::: {.hero}
+# **Ricardo I. Alcalá Briseño, Ph.D.**
+
+I am a viral ecologist at Penn State University in the Department of Plant Pathology and Environmental Microbiology ([PPEM](https://plantpath.psu.edu/)). My research focuses on the distribution of plant and fungal viromes across natural and agricultural ecosystems, and on understanding their ecological functions alongside the epidemiological dimensions of disease.
+
+I am particularly interested in mixed virus infections and how these interactions shape virome communities and influence pathogen emergence in natural systems. My work centers on developing tools and conceptual frameworks for the analysis of complex interaction-driven datasets, integrating virome network analysis that combines viral metagenomics and meta-transcriptomics with machine-learning approaches and bipartite network analysis.
+
+I synthesize these patterns using concepts from island biogeography, community ecology, and disease ecology to understand how viromes are structured across space, hosts, and ecosystems.
+
+## Education
+
+I obtained my Ph.D. from the 
+[Plant Pathology Department](https://plantpath.ifas.ufl.edu/), 
+the [Emerging Pathogen Institute](https://www.epi.ufl.edu/), and the 
+[Institute of Food Systems (now the Global Food Systems Institute)](https://foodsystems.ifas.ufl.edu/) 
+at the [University of Florida](https://ufl.edu), under the supervision of 
+Professor [Karen A. Garrett](https://twitter.com/garret_lab).
+
+I completed my postdoctoral training in Forest Pathology in the Department of Botany and Plant Pathology at Oregon State University.
+
+---
+
+## Academic Position
+
+I am an **Assistant Professor of Viral Ecology** at Penn State University in the Department of Plant Pathology and Environmental Microbiology.  
+My research focuses on plant and fungal viruses across natural and agricultural systems, with an emphasis on virome structure, host–virus interactions, and pathogen emergence.
+
+---
+
+## Research Background
+
+My doctoral research focused on understanding virome ecological dynamics in crop systems and translating these insights into virome-informed disease management strategies. I am particularly interested in host–virus interactions and virome community assembly, and in identifying the ecological mechanisms that underlie pathogen emergence in complex agroecological landscapes.
+
+My work emphasizes the development of analytical frameworks for complex, interaction-driven datasets. I integrate viral metagenomics and meta-transcriptomics with machine-learning approaches to quantify viral communities, and analyze these data using bipartite network analysis informed by island biogeography and community ecology.
+
+---
+
+## Contact and Profiles
+
+<div class="icon-row">
+  <a href="mailto:ria5272a@psu.edu" aria-label="Email">
+    <i class="fa fa-envelope fa-2x"></i>
+  </a>
+  <a href="https://github.com/ricardoi/" aria-label="GitHub">
+    <i class="fa fa-github fa-2x"></i>
+  </a>
+  <a href="https://twitter.com/ricardoi_" aria-label="Twitter">
+    <i class="fa fa-twitter fa-2x"></i>
+  </a>
+  <a href="https://scholar.google.com/citations?user=SkBxudIAAAAJ&hl=en" aria-label="Google Scholar">
+    <i class="ai ai-google-scholar ai-2x"></i>
+  </a>
+  <a href="https://orcid.org/0000-0002-7031-2195" aria-label="ORCID">
+    <i class="fa fa-orcid fa-2x"></i>
+  </a>
+</div>
+
+---
+
+## News and Upcoming Events
+
+- Presenting at the Plant and Animal Genomics (PAG) meeting, January 9–14
+- Teaching *Fundamentals of Plant Pathology* at Penn State
+
+### 2026
+- Plant and Animal Genomics (PAG) meeting, January 9–14  
+  <https://intlpag.org/PAG33/>
+
+### July 2025
+- Joined Penn State University as an Assistant Professor in the Department of Plant Pathology and Environmental Microbiology
+
+---
+
+## Recent Publications
+
+- **Accepted manuscript** (in press):  
+  *The poplar pathogen* _Sphaerulina musiva_ *has a dynamic genome architecture marked by chromosomal inversions and changes in transposable element abundance*.  
+  Led by **Jared M. LeBoldus**.
+
+- **Preprint**:  
+  *PathogenSurveillance: an automated pipeline for population genomic analyses and pathogen identification*.  
+  November 2025. Submitted to *GigaScience*.  
+  <https://www.biorxiv.org/content/10.1101/2025.10.31.685798v2.abstract>
+
+- **Research article**:  
+  *Decision support for managing an invasive pathogen through efficient clean seed systems: Cassava mosaic disease in Southeast Asia*.  
+  Led by **Karen A. Garrett**.  
+  <https://www.sciencedirect.com/science/article/pii/S0308521X25001751>
+
+---
+
+## Under Peer Review
+
+- *Cryptostroma corticale*, a plant pathogen associated with a human immune respiratory syndrome displaying mixed mycovirus infections (postdoctoral work)
+
+- *Metatranscriptomic analysis reveals the cotton virome in the southern United States*.  
+  Led by **César Escalante, Ph.D.**
+
+---
+
+## Novel Viruses
+
+- Four mycoviruses infecting *Cryptostroma corticale*  
+  - Three **Narnaviruses**  
+  - One **Mitovirus**
+
+---
+
+## Book Chapters
+
+**June 2020**
+
+- *Adapting disease management systems under global change*  
+  In **Emerging Plant Diseases and Global Food Security**.  
+  Led by **Karen A. Garrett**, edited by Ristaino J. and Records A.  
+  APS Press.  
+  <http://my.apsnet.org/ItemDetail?iProductCode=46376>
+
