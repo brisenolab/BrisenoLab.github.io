@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "BrisenoLab"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmdi
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: truei
+        link-external-newwindow: true
+
+bibliography: references.bib
+csl: nature.csl
+
+
+
