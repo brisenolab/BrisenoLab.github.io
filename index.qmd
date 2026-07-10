@@ -1,8 +1,113 @@
+---
+title: ""
+page-layout: full
+---
+
+:::{.hero}
+
 # Virome Connectivity and Host Systems
 ## Briseño Lab
 
-## Viral Ecology • Plant Pathology • Bioinformatics
+## Virome Ecology • Plant Pathology • Bioinformatics
 
-Welcome to the Briseño Lab.
+Understanding how viruses shape plant health, microbial communities, and ecosystems through ecology, genomics, and computational biology.
 
-This website is currently under development.
+<div class="hero-buttons">
+
+[Research](research.qmd){.btn .btn-primary}
+
+[People](people.qmd){.btn .btn-secondary}
+
+[Publications](publications.qmd){.btn .btn-secondary}
+
+[Join the Lab](join.qmd){.btn .btn-secondary}
+
+</div>
+
+:::
+
+---
+
+# Research Areas
+
+:::: {.columns}
+
+::: {.column width="33%"}
+
+### 🌿 Virome Ecology
+
+Understanding the ecological roles of viruses across natural and agricultural systems.
+
+:::
+
+::: {.column width="33%"}
+
+### 🦠 Plant Virology
+
+Discovering and characterizing plant viruses using genomics and molecular biology.
+
+:::
+
+::: {.column width="33%"}
+
+### 🧬 Bioinformatics
+
+Developing computational tools and reproducible workflows for genomic analysis.
+
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="33%"}
+
+### 🌎 Disease Ecology
+
+Exploring pathogen dynamics across hosts, landscapes, and ecosystems.
+
+:::
+
+::: {.column width="33%"}
+
+### 🌱 Microbiome Ecology
+
+Investigating interactions among viruses, fungi, bacteria, oomycetes, nematodes, and plants.
+
+:::
+
+::: {.column width="33%"}
+
+### 🌲 Forest Pathology
+
+Understanding emerging diseases affecting forest ecosystems.
+
+:::
+
+::::
+
+---
+
+# Latest News
+
+*Website under construction.*
+
+---
+
+# Software
+
+- HoboR
+- ViNA
+- Bioinformatics Pipelines
+
+---
+
+# Recent Publications
+
+_Publications will appear here._
+
+---
+
+# Funding
+
+Research conducted in the Briseño Lab is supported by The Pennsylvania State University and external funding agencies.
