@@ -5,4 +5,4 @@
 
 Postodoctoral appointment salaries and information [click here](https://guru.psu.edu/resources/rates-and-schedules/stipends-for-postdoctoral-appointments?range=20252026&submit=Submit) 
 
-Data Management Plan: to develop one for the lab [check](https://help.osf.io/article/144-creating-a-data-management-plan-dmp-document)
+Data Management Plan: to develop one for the lab [check](https://dmptool.org/)
