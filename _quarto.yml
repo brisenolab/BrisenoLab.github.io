@@ -1,7 +1,5 @@
 project:
   type: website
-
-website:
   title: "Briseño Lab"
 
 format:
@@ -9,3 +7,16 @@ format:
     theme: cosmo
     css: assets/css/styles.css
     toc: true
+
+  render:
+    - "*.qmd"
+    - "research/**"
+    - "people/**"
+    - "software/**"
+    - "protocols/**"
+    - "datasets/**"
+    - "teaching/**"
+    - "news/**"
+    - "join/**"
+    - "contact/**"
+    - "!legacy_site/**"project:
