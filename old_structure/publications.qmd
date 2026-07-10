@@ -1,0 +1,10 @@
+---
+title: Publications
+---
+
+## Peer-reviewed articles
+
+- Alcalá-Briseño, R. I. *et al.* Translating virome analyses to support biosecurity, on-farm management, and crop breeding. **Translating Viromes** (2023). doi:10.3389/fpls.2023.1056603 [@alcala2023translating]
+
+## Preprints
+
