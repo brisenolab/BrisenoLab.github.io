@@ -1,13 +1,5 @@
 project:
   type: website
-  title: "Briseño Lab"
-
-format:
-  html:
-    theme: cosmo
-    css: assets/css/styles.css
-    toc: true
-
   render:
     - "*.qmd"
     - "research/**"
@@ -20,3 +12,13 @@ format:
     - "join/**"
     - "contact/**"
     - "!legacy_site/**"
+
+website:
+  title: "Briseño Lab"
+
+format:
+  html:
+    theme: cosmo
+    css: assets/css/styles.css
+    toc: true
+
