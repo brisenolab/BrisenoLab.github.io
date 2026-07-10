@@ -19,4 +19,4 @@ format:
     - "news/**"
     - "join/**"
     - "contact/**"
-    - "!legacy_site/**"project:
+    - "!legacy_site/**"
