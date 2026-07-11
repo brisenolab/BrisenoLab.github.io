@@ -1,17 +1,45 @@
 [
   {
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "Briseño Lab",
+    "section": "",
+    "text": "Dr. Ricardo I. Alcalá Briseño\nAssistant Professor of Viral Ecology, Department of Plant Pathology and Environmental Microbiology, One Health Microbiome Center, Plant Sciences Institute, Virology Group, at Penn State University"
+  },
+  {
+    "objectID": "people/index.html#principal-investigator",
+    "href": "people/index.html#principal-investigator",
+    "title": "Briseño Lab",
+    "section": "",
+    "text": "Dr. Ricardo I. Alcalá Briseño\nAssistant Professor of Viral Ecology, Department of Plant Pathology and Environmental Microbiology, One Health Microbiome Center, Plant Sciences Institute, Virology Group, at Penn State University"
+  },
+  {
+    "objectID": "people/index.html#current-members",
+    "href": "people/index.html#current-members",
+    "title": "Briseño Lab",
+    "section": "Current Members",
+    "text": "Current Members\n\nGraduate Students\n\nPatricia Soria Venegas — Ph.D. Student\nMeghan Shoger — M.S. Student (co-advised with Dr. David M. Beyer)\n\n\n\nUndergraduate Students\n\nReece P. Porter — Undergraduate Volunteer\n\n\n\nStaff\n\nSerenity Mathews — Laboratory Manager, Mushroom Research Center (MRC)\n\n\n\nPostdoctoral Researchers\nPositions available. https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000078733-1?"
+  },
+  {
+    "objectID": "people/index.html#collaborators",
+    "href": "people/index.html#collaborators",
+    "title": "Briseño Lab",
+    "section": "Collaborators",
+    "text": "Collaborators\n\nDr. David M. Beyer — Department of Plant Pathology and Environmental Microbiology; Director, Mushroom Research Center, Penn State\nDr. Tomás A. Rush — Biosciences Division, Oak Ridge National Laboratory\nDr. Patrick F. Suthers — Department of Chemical Engineering, Penn State"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Virome Connectivity and Host Systems",
     "section": "",
-    "text": "Understanding the virome connectivity in agricultural systems and natural ecosystems, and the impact of viruses on their host, implementing comparative genomics, metagenomics, computational biology, and ecological networks.\n\nResearch\nPeople\nPublications\nJoin the Lab"
+    "text": "Understanding the virome connectivity in agricultural systems and natural ecosystems, and the impact of viruses on their host, implementing comparative genomics, metagenomics, computational biology, and ecological networks.\n\n\n\n\n\n\nUnderstanding viruses across agricultural and natural ecosystems.\n\n\n\n\n\n\n\n\nMeet the scientists, students, and collaborators driving our research.\n\n\n\n\n\n\n\n\nExplore our latest peer-reviewed research and preprints.\n\n\n\n\n\n\n\n\nOpen-source tools for virome ecology, genomics, and bioinformatics."
   },
   {
     "objectID": "index.html#virome-ecology-plant-pathology-bioinformatics",
     "href": "index.html#virome-ecology-plant-pathology-bioinformatics",
     "title": "Virome Connectivity and Host Systems",
     "section": "",
-    "text": "Understanding the virome connectivity in agricultural systems and natural ecosystems, and the impact of viruses on their host, implementing comparative genomics, metagenomics, computational biology, and ecological networks.\n\nResearch\nPeople\nPublications\nJoin the Lab"
+    "text": "Understanding the virome connectivity in agricultural systems and natural ecosystems, and the impact of viruses on their host, implementing comparative genomics, metagenomics, computational biology, and ecological networks.\n\n\n\n\n\n\nUnderstanding viruses across agricultural and natural ecosystems.\n\n\n\n\n\n\n\n\nMeet the scientists, students, and collaborators driving our research.\n\n\n\n\n\n\n\n\nExplore our latest peer-reviewed research and preprints.\n\n\n\n\n\n\n\n\nOpen-source tools for virome ecology, genomics, and bioinformatics."
   },
   {
     "objectID": "index.html#research-areas-1",
@@ -19,5 +47,103 @@
     "title": "Virome Connectivity and Host Systems",
     "section": "Research Areas",
     "text": "Research Areas\n\n\n\nVirome Ecology\nUnderstanding how viruses shape ecological communities across natural and agricultural systems.\n\n\n\nPlant Virology\nDiscovering, characterizing, and tracking plant viruses using genomics and molecular biology.\n\n\n\nBioinformatics\nDeveloping reproducible computational methods for sequence analysis and pathogen discovery.\n\n\n\n\n\n\nDisease Ecology\nStudying pathogen dynamics across hosts, landscapes, and ecosystems.\n\n\n\nMicrobiome Ecology\nInvestigating interactions among viruses, fungi, bacteria, oomycetes, nematodes, and plants.\n\n\n\nForest Pathology\nUnderstanding emerging diseases affecting forest ecosystems through ecology and genomics."
+  },
+  {
+    "objectID": "people/ricardo.html",
+    "href": "people/ricardo.html",
+    "title": "Dr. Ricardo I. Alcalá Briseño",
+    "section": "",
+    "text": "Assistant Professor of Viral Ecology Department of Plant Pathology and Environmental Microbiology The Pennsylvania State University\n\n\n\nOffice: 101 Buckhout Laboratory Email: ria5282a@psu.edu\n\nORCID:https://orcid.org/0000-0002-7031-2195\nGoogle Scholar:https://scholar.google.com/citations?hl=en&user=SkBxudIAAAAJ\nGitHub:https://github.com/ricardoi\nLinkedIn:https://www.linkedin.com/in/ricardo-i-alcal%C3%A1-brise%C3%B1o-24b4bb61/\n\n\n\n\n\nDr. Ricardo I. Alcalá Briseño is an Assistant Professor of Viral Ecology in the Department of Plant Pathology and Environmental Microbiology at Penn State University. His research focuses on plant and fungal viruses, disease ecology, and the application of high-throughput sequencing and bioinformatics to understand pathogen emergence and transmission. He received his Ph.D. in Plant Pathology from the University of Florida and completed postdoctoral training at Oregon State University. His laboratory investigates virome dynamics and host impact in agricultural systems and forest ecosystems to improve disease detection, management, and ecosystem health.\nHis laboratory develops computational approaches for studying viromes, investigates virus–host interactions, and applies high-throughput sequencing to questions in disease ecology, microbial community assembly, and pathogen evolution.\n\n\n\n\n\nVirome Ecology\nPlant Virology\nDisease Ecology\nMicrobiome Ecology\nComparative Genomics\nNetwork Analysis\nComputational Biology\nBioinformatics\nGenomic Epidemiology\nHigh-throughput Sequencing\nVirus–Host Interactions\n\n\n\n\n\n\n\nOregon State University Botany and Plant Pathology\n\n\n\nUniversity of Florida Plant Pathology\n\n\n\nResearch Center for Advance Studies (Cinvestav) Genetic Engineering, Plant Bioetchnology\n\n\n\nUniversidad de Guadalajara Biology\n\n\n\n\n\n\nAssistant Professor of Viral Ecology, The Pennsylvania State University\nPostdoctoral Scholar, Oregon State University\nGraduate Research Assistant, University of Florida\n\n\n\n\n\nThe Briseño Lab investigates questions at the interface of ecology, evolution, and genomics, including:\n\nVirus connectivity within host-associated systems\nMicrobiome and virome interactions\nEcology and evolution of plant viromes\nVirus host impact and comparative genomics\nBioinformatics tool development\nPathogen surveillance using high-throughput sequencing\n\n\n\n\n\n\nViral Ecology (PPEM 454)\n\n\n\n\n\nRepresentative software developed by the laboratory includes:\n\nHoboR https://leboldus-lab.github.io/hoboR/\nViNA (Virome Network Analysis, coming soon)\nBioinformatics workflows for virome analysis\n\n\n\n\n\nA curated list of representative publications will appear here.\n\n\n\n\n\nReviewer for scientific journals: APS journals, Nature publishing, Elsevier jorunals, Plos One, among others.\nGraduate student mentoring\nOutreach and scientific communication\n\n\n\n\n\n\nInternational Outstandin Achievement at UF (2019)\nGrinter Awards at UF (2015)\n\n\n\n\n\nComing soon\n\n\n\n\nThe laboratory actively collaborates with researchers in plant pathology, microbiome science, ecology, computational biology, and genomics across academic institutions, national laboratories, and international partners."
+  },
+  {
+    "objectID": "people/ricardo.html#contact",
+    "href": "people/ricardo.html#contact",
+    "title": "Dr. Ricardo I. Alcalá Briseño",
+    "section": "",
+    "text": "Office: 101 Buckhout Laboratory Email: ria5282a@psu.edu\n\nORCID:https://orcid.org/0000-0002-7031-2195\nGoogle Scholar:https://scholar.google.com/citations?hl=en&user=SkBxudIAAAAJ\nGitHub:https://github.com/ricardoi\nLinkedIn:https://www.linkedin.com/in/ricardo-i-alcal%C3%A1-brise%C3%B1o-24b4bb61/"
+  },
+  {
+    "objectID": "people/ricardo.html#biography",
+    "href": "people/ricardo.html#biography",
+    "title": "Dr. Ricardo I. Alcalá Briseño",
+    "section": "",
+    "text": "Dr. Ricardo I. Alcalá Briseño is an Assistant Professor of Viral Ecology in the Department of Plant Pathology and Environmental Microbiology at Penn State University. His research focuses on plant and fungal viruses, disease ecology, and the application of high-throughput sequencing and bioinformatics to understand pathogen emergence and transmission. He received his Ph.D. in Plant Pathology from the University of Florida and completed postdoctoral training at Oregon State University. His laboratory investigates virome dynamics and host impact in agricultural systems and forest ecosystems to improve disease detection, management, and ecosystem health.\nHis laboratory develops computational approaches for studying viromes, investigates virus–host interactions, and applies high-throughput sequencing to questions in disease ecology, microbial community assembly, and pathogen evolution."
+  },
+  {
+    "objectID": "people/ricardo.html#research-interests",
+    "href": "people/ricardo.html#research-interests",
+    "title": "Dr. Ricardo I. Alcalá Briseño",
+    "section": "",
+    "text": "Virome Ecology\nPlant Virology\nDisease Ecology\nMicrobiome Ecology\nComparative Genomics\nNetwork Analysis\nComputational Biology\nBioinformatics\nGenomic Epidemiology\nHigh-throughput Sequencing\nVirus–Host Interactions"
+  },
+  {
+    "objectID": "people/ricardo.html#education",
+    "href": "people/ricardo.html#education",
+    "title": "Dr. Ricardo I. Alcalá Briseño",
+    "section": "",
+    "text": "Oregon State University Botany and Plant Pathology\n\n\n\nUniversity of Florida Plant Pathology\n\n\n\nResearch Center for Advance Studies (Cinvestav) Genetic Engineering, Plant Bioetchnology\n\n\n\nUniversidad de Guadalajara Biology"
+  },
+  {
+    "objectID": "people/ricardo.html#professional-appointments",
+    "href": "people/ricardo.html#professional-appointments",
+    "title": "Dr. Ricardo I. Alcalá Briseño",
+    "section": "",
+    "text": "Assistant Professor of Viral Ecology, The Pennsylvania State University\nPostdoctoral Scholar, Oregon State University\nGraduate Research Assistant, University of Florida"
+  },
+  {
+    "objectID": "people/ricardo.html#current-research",
+    "href": "people/ricardo.html#current-research",
+    "title": "Dr. Ricardo I. Alcalá Briseño",
+    "section": "",
+    "text": "The Briseño Lab investigates questions at the interface of ecology, evolution, and genomics, including:\n\nVirus connectivity within host-associated systems\nMicrobiome and virome interactions\nEcology and evolution of plant viromes\nVirus host impact and comparative genomics\nBioinformatics tool development\nPathogen surveillance using high-throughput sequencing"
+  },
+  {
+    "objectID": "people/ricardo.html#teaching",
+    "href": "people/ricardo.html#teaching",
+    "title": "Dr. Ricardo I. Alcalá Briseño",
+    "section": "",
+    "text": "Viral Ecology (PPEM 454)"
+  },
+  {
+    "objectID": "people/ricardo.html#software",
+    "href": "people/ricardo.html#software",
+    "title": "Dr. Ricardo I. Alcalá Briseño",
+    "section": "",
+    "text": "Representative software developed by the laboratory includes:\n\nHoboR https://leboldus-lab.github.io/hoboR/\nViNA (Virome Network Analysis, coming soon)\nBioinformatics workflows for virome analysis"
+  },
+  {
+    "objectID": "people/ricardo.html#selected-publications",
+    "href": "people/ricardo.html#selected-publications",
+    "title": "Dr. Ricardo I. Alcalá Briseño",
+    "section": "",
+    "text": "A curated list of representative publications will appear here."
+  },
+  {
+    "objectID": "people/ricardo.html#professional-service",
+    "href": "people/ricardo.html#professional-service",
+    "title": "Dr. Ricardo I. Alcalá Briseño",
+    "section": "",
+    "text": "Reviewer for scientific journals: APS journals, Nature publishing, Elsevier jorunals, Plos One, among others.\nGraduate student mentoring\nOutreach and scientific communication"
+  },
+  {
+    "objectID": "people/ricardo.html#awards-and-honors",
+    "href": "people/ricardo.html#awards-and-honors",
+    "title": "Dr. Ricardo I. Alcalá Briseño",
+    "section": "",
+    "text": "International Outstandin Achievement at UF (2019)\nGrinter Awards at UF (2015)"
+  },
+  {
+    "objectID": "people/ricardo.html#funding",
+    "href": "people/ricardo.html#funding",
+    "title": "Dr. Ricardo I. Alcalá Briseño",
+    "section": "",
+    "text": "Coming soon"
+  },
+  {
+    "objectID": "people/ricardo.html#collaborations",
+    "href": "people/ricardo.html#collaborations",
+    "title": "Dr. Ricardo I. Alcalá Briseño",
+    "section": "",
+    "text": "The laboratory actively collaborates with researchers in plant pathology, microbiome science, ecology, computational biology, and genomics across academic institutions, national laboratories, and international partners."
   }
 ]
