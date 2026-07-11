@@ -6,7 +6,7 @@ page-layout: full
 # Virome Connectivity and Host Systems
 ## Briseño Lab
 
-## Virome Ecology • Plant Pathology • Bioinformatics
+## Virome Ecology • Host Impact • Computational Biology
 
 ::: {.hero}
 
@@ -22,7 +22,7 @@ Understanding the virome connectivity in agricultural systems and natural ecosys
 
 ### Research
 
-Understanding viruses across agricultural and natural ecosystems.
+Understanding viruses across agricultural systems and natural ecosystems.
 
 </a>
 :::
