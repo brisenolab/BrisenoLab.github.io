@@ -70,54 +70,83 @@ a:hover{
   Hero
 ---------------------------------------------------------*/
 
-.hero{
+/* Hero typography */
 
-    background:var(--forest-light);
-
-    border:1px solid var(--border);
-
-    border-radius:18px;
-
-    padding:4rem 3rem;
-
-    margin-bottom:3rem;
-
-    text-align:center;
-
+.hero-title,
+.hero-lab,
+.hero-tagline {
+    color: var(--forest) !important;
 }
 
-.hero h1{
-
-    color:var(--forest);
-
-    font-size:3rem;
-
-    margin-bottom:.25rem;
-
+.hero-title {
+    font-size: 3rem;
+    margin-bottom: 0.25rem;
 }
 
-.hero h2{
-
-    color:var(--psu-blue);
-
-    font-size:1.5rem;
-
-    font-weight:500;
-
-    margin-bottom:1.25rem;
-
+.hero-lab {
+    color: var(--forest) !important;
+    font-size: 2.2rem;
+    font-weight: 600;
+    margin-bottom: 0.4rem;
+    text-align: center;
 }
 
-.hero p{
+h2.hero-tagline {
+    color: var(--forest) !important;
+    font-size: 1.9rem !important;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
 
-    max-width:850px;
+.hero {
+    background: var(--forest-light);
+    border: 1px solid var(--border);
+    border-radius: 18px;
+    padding: 4rem 3rem;
+    margin-bottom: 3rem;
+    text-align: center;
+}
 
-    margin:auto;
+/* All headings contained in the homepage hero */
+.hero > h1,
+.hero > h2,
+.hero > h3,
+.hero h1,
+.hero h2,
+.hero h3 {
+    color: var(--forest) !important;
+}
 
-    color:var(--text-light);
+/* Virome Connectivity and Host Systems */
+.hero > h1,
+.hero h1 {
+    font-size: 3rem;
+    margin: 0 0 0.25rem;
+}
 
-    font-size:1.15rem;
+/* Briseño Lab and disciplinary tagline */
+.hero > h2,
+.hero h2 {
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin: 0 0 0.5rem;
+}
 
+/* Only needed if the tagline uses ### */
+.hero > h3,
+.hero h3 {
+    font-size: 1.15rem;
+    font-weight: 500;
+    margin: 0 0 1.5rem;
+}
+
+.hero p {
+    max-width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--text-light);
+    font-size: 1.15rem;
 }
 
 

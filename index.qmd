@@ -3,12 +3,12 @@ title: ""
 page-layout: full
 ---
 
-# Virome Connectivity and Host Systems
-## Briseño Lab
+# Virome Connectivity and Host Systems {.hero-title}
 
-## Virome Ecology • Host Impact • Computational Biology
+## Briseño Lab {.hero-lab}
 
 ::: {.hero}
+## Virome Ecology • Host Impact • Computational Biology {.hero-tagline}
 
 Understanding the virome connectivity in agricultural systems and natural ecosystems, and the impact of viruses on their host, implementing comparative genomics, metagenomics, computational biology, and ecological networks.
 
