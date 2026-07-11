@@ -27,6 +27,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -43,11 +44,11 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-bba5ebae505b5c03f3f0d8040a416a6b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -74,11 +75,64 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 
-<body class="quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Briseño Lab</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./research/"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./people/"> 
+<span class="menu-text">People</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./publications/"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./software/"> 
+<span class="menu-text">Software</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./teaching/"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./join/"> 
+<span class="menu-text">Join Us</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contact/"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -91,7 +145,10 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#briseño-lab" id="toc-briseño-lab" class="nav-link" data-scroll-target="#briseño-lab">Briseño Lab</a></li>
   <li><a href="#virome-ecology-plant-pathology-bioinformatics" id="toc-virome-ecology-plant-pathology-bioinformatics" class="nav-link" data-scroll-target="#virome-ecology-plant-pathology-bioinformatics">Virome Ecology • Plant Pathology • Bioinformatics</a></li>
   </ul></li>
-  <li><a href="#research-areas" id="toc-research-areas" class="nav-link" data-scroll-target="#research-areas">Research Areas</a></li>
+  <li><a href="#research-areas" id="toc-research-areas" class="nav-link" data-scroll-target="#research-areas">Research Areas</a>
+  <ul class="collapse">
+  <li><a href="#research-areas-1" id="toc-research-areas-1" class="nav-link" data-scroll-target="#research-areas-1">Research Areas</a></li>
+  </ul></li>
   <li><a href="#latest-news" id="toc-latest-news" class="nav-link" data-scroll-target="#latest-news">Latest News</a></li>
   <li><a href="#software" id="toc-software" class="nav-link" data-scroll-target="#software">Software</a></li>
   <li><a href="#recent-publications" id="toc-recent-publications" class="nav-link" data-scroll-target="#recent-publications">Recent Publications</a></li>
@@ -112,55 +169,58 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="virome-ecology-plant-pathology-bioinformatics" class="level2">
 <h2 class="anchored" data-anchor-id="virome-ecology-plant-pathology-bioinformatics">Virome Ecology • Plant Pathology • Bioinformatics</h2>
-<p>Understanding how viruses shape plant health, microbial communities, and ecosystems through ecology, genomics, and computational biology.</p>
+<p>Understanding the virome connectivity in agricultural systems and natural ecosystems, and the impact of viruses on their host, implementing comparative genomics, metagenomics, computational biology, and ecological networks.</p>
 <div class="hero-buttons">
-<p><a href="research.qmd" class="btn btn-primary">Research</a></p>
-<p><a href="people.qmd" class="btn btn-secondary">People</a></p>
-<p><a href="publications.qmd" class="btn btn-secondary">Publications</a></p>
-<p><a href="join.qmd" class="btn btn-secondary">Join the Lab</a></p>
+<p><a href="research/" class="btn btn-primary">Research</a></p>
+<p><a href="people/" class="btn btn-secondary">People</a></p>
+<p><a href="publications/" class="btn btn-secondary">Publications</a></p>
+<p><a href="join/" class="btn btn-secondary">Join the Lab</a></p>
 </div>
 </section>
 </section>
 <hr>
 <section id="research-areas" class="level1">
 <h1>Research Areas</h1>
+<section id="research-areas-1" class="level2">
+<h2 class="anchored" data-anchor-id="research-areas-1">Research Areas</h2>
 <div class="columns">
 <div class="column" style="width:33%;">
 <section id="virome-ecology" class="level3">
-<h3 class="anchored" data-anchor-id="virome-ecology">🌿 Virome Ecology</h3>
-<p>Understanding the ecological roles of viruses across natural and agricultural systems.</p>
+<h3 class="anchored" data-anchor-id="virome-ecology"><a href="projects/virome-ecology/">Virome Ecology</a></h3>
+<p>Understanding how viruses shape ecological communities across natural and agricultural systems.</p>
 </section>
 </div><div class="column" style="width:33%;">
 <section id="plant-virology" class="level3">
-<h3 class="anchored" data-anchor-id="plant-virology">🦠 Plant Virology</h3>
-<p>Discovering and characterizing plant viruses using genomics and molecular biology.</p>
+<h3 class="anchored" data-anchor-id="plant-virology"><a href="projects/plant-viromes/">Plant Virology</a></h3>
+<p>Discovering, characterizing, and tracking plant viruses using genomics and molecular biology.</p>
 </section>
 </div><div class="column" style="width:33%;">
 <section id="bioinformatics" class="level3">
-<h3 class="anchored" data-anchor-id="bioinformatics">🧬 Bioinformatics</h3>
-<p>Developing computational tools and reproducible workflows for genomic analysis.</p>
+<h3 class="anchored" data-anchor-id="bioinformatics"><a href="projects/bioinformatics/">Bioinformatics</a></h3>
+<p>Developing reproducible computational methods for sequence analysis and pathogen discovery.</p>
 </section>
 </div>
 </div>
 <div class="columns">
 <div class="column" style="width:33%;">
 <section id="disease-ecology" class="level3">
-<h3 class="anchored" data-anchor-id="disease-ecology">🌎 Disease Ecology</h3>
-<p>Exploring pathogen dynamics across hosts, landscapes, and ecosystems.</p>
+<h3 class="anchored" data-anchor-id="disease-ecology"><a href="projects/disease-ecology/">Disease Ecology</a></h3>
+<p>Studying pathogen dynamics across hosts, landscapes, and ecosystems.</p>
 </section>
 </div><div class="column" style="width:33%;">
 <section id="microbiome-ecology" class="level3">
-<h3 class="anchored" data-anchor-id="microbiome-ecology">🌱 Microbiome Ecology</h3>
+<h3 class="anchored" data-anchor-id="microbiome-ecology"><a href="projects/microbiome-ecology/">Microbiome Ecology</a></h3>
 <p>Investigating interactions among viruses, fungi, bacteria, oomycetes, nematodes, and plants.</p>
 </section>
 </div><div class="column" style="width:33%;">
 <section id="forest-pathology" class="level3">
-<h3 class="anchored" data-anchor-id="forest-pathology">🌲 Forest Pathology</h3>
-<p>Understanding emerging diseases affecting forest ecosystems.</p>
+<h3 class="anchored" data-anchor-id="forest-pathology"><a href="projects/forest-pathology/">Forest Pathology</a></h3>
+<p>Understanding emerging diseases affecting forest ecosystems through ecology and genomics.</p>
 </section>
 </div>
 </div>
 <hr>
+</section>
 </section>
 <section id="latest-news" class="level1">
 <h1>Latest News</h1>
