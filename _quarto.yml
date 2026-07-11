@@ -16,6 +16,33 @@ project:
 website:
   title: "Briseño Lab"
 
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: research/
+        text: Research
+
+      - href: people/
+        text: People
+
+      - href: publications/
+        text: Publications
+
+      - href: software/
+        text: Software
+
+      - href: teaching/
+        text: Teaching
+
+      - href: join/
+        text: Join Us
+
+      - href: contact/
+        text: Contact
+
+
 format:
   html:
     theme: cosmo

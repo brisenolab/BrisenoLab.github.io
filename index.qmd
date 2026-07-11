@@ -10,17 +10,17 @@ page-layout: full
 
 ## Virome Ecology • Plant Pathology • Bioinformatics
 
-Understanding how viruses shape plant health, microbial communities, and ecosystems through ecology, genomics, and computational biology.
+Understanding the virome connectivity in agricultural systems and natural ecosystems, and the impact of viruses on their host, implementing comparative genomics, metagenomics, computational biology, and ecological networks.
 
 <div class="hero-buttons">
 
-[Research](research.qmd){.btn .btn-primary}
+[Research](research/){.btn .btn-primary}
 
-[People](people.qmd){.btn .btn-secondary}
+[People](people/){.btn .btn-secondary}
 
-[Publications](publications.qmd){.btn .btn-secondary}
+[Publications](publications/){.btn .btn-secondary}
 
-[Join the Lab](join.qmd){.btn .btn-secondary}
+[Join the Lab](join/){.btn .btn-secondary}
 
 </div>
 
@@ -30,29 +30,31 @@ Understanding how viruses shape plant health, microbial communities, and ecosyst
 
 # Research Areas
 
+## Research Areas
+
 :::: {.columns}
 
 ::: {.column width="33%"}
 
-### 🌿 Virome Ecology
+### [Virome Ecology](projects/virome-ecology/)
 
-Understanding the ecological roles of viruses across natural and agricultural systems.
-
-:::
-
-::: {.column width="33%"}
-
-### 🦠 Plant Virology
-
-Discovering and characterizing plant viruses using genomics and molecular biology.
+Understanding how viruses shape ecological communities across natural and agricultural systems.
 
 :::
 
 ::: {.column width="33%"}
 
-### 🧬 Bioinformatics
+### [Plant Virology](projects/plant-viromes/)
 
-Developing computational tools and reproducible workflows for genomic analysis.
+Discovering, characterizing, and tracking plant viruses using genomics and molecular biology.
+
+:::
+
+::: {.column width="33%"}
+
+### [Bioinformatics](projects/bioinformatics/)
+
+Developing reproducible computational methods for sequence analysis and pathogen discovery.
 
 :::
 
@@ -62,15 +64,15 @@ Developing computational tools and reproducible workflows for genomic analysis.
 
 ::: {.column width="33%"}
 
-### 🌎 Disease Ecology
+### [Disease Ecology](projects/disease-ecology/)
 
-Exploring pathogen dynamics across hosts, landscapes, and ecosystems.
+Studying pathogen dynamics across hosts, landscapes, and ecosystems.
 
 :::
 
 ::: {.column width="33%"}
 
-### 🌱 Microbiome Ecology
+### [Microbiome Ecology](projects/microbiome-ecology/)
 
 Investigating interactions among viruses, fungi, bacteria, oomycetes, nematodes, and plants.
 
@@ -78,13 +80,14 @@ Investigating interactions among viruses, fungi, bacteria, oomycetes, nematodes,
 
 ::: {.column width="33%"}
 
-### 🌲 Forest Pathology
+### [Forest Pathology](projects/forest-pathology/)
 
-Understanding emerging diseases affecting forest ecosystems.
+Understanding emerging diseases affecting forest ecosystems through ecology and genomics.
 
 :::
 
 ::::
+
 
 ---
 
