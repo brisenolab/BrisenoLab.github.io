@@ -42,6 +42,7 @@ website:
       - href: contact/
         text: Contact
 
+bibliography: references/publications.bib
 
 format:
   html:

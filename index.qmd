@@ -71,8 +71,6 @@ Open-source tools for virome ecology, genomics, and bioinformatics.
 
 # Research Areas
 
-## Research Areas
-
 :::: {.columns}
 
 ::: {.column width="33%"}

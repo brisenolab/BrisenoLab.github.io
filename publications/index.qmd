@@ -1,0 +1,15 @@
+---
+title: "Publications"
+bibliography: ../references/publications.bib
+nocite: |
+  @*
+---
+
+Our research spans virome ecology, plant pathology, disease ecology, microbial communities, genomics, and computational biology.
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=SkBxudIAAAAJ){.btn .btn-primary}
+
+## Peer-Reviewed Publications
+
+::: {#refs}
+:::
