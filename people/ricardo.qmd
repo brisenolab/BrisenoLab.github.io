@@ -1,0 +1,140 @@
+---
+## title: "Ricardo I. Alcalá Briseño"
+---
+
+# Dr. Ricardo I. Alcalá Briseño
+
+**Assistant Professor of Viral Ecology**
+Department of Plant Pathology and Environmental Microbiology
+The Pennsylvania State University
+
+---
+
+## Contact
+
+**Office:** 101 Buckhout Laboratory
+**Email:** [ria5282a@psu.edu](mailto:ria5282@psu.edu)
+
+* ORCID:https://orcid.org/0000-0002-7031-2195
+* Google Scholar:https://scholar.google.com/citations?hl=en&user=SkBxudIAAAAJ
+* GitHub:https://github.com/ricardoi
+* LinkedIn:https://www.linkedin.com/in/ricardo-i-alcal%C3%A1-brise%C3%B1o-24b4bb61/
+
+---
+
+## Biography
+
+Dr. Ricardo I. Alcalá Briseño is an Assistant Professor of Viral Ecology in the Department of Plant Pathology and Environmental Microbiology at Penn State University. His research focuses on plant and fungal viruses, disease ecology, and the application of high-throughput sequencing and bioinformatics to understand pathogen emergence and transmission. He received his Ph.D. in Plant Pathology from the University of Florida and completed postdoctoral training at Oregon State University. His laboratory investigates virome dynamics and host impact in agricultural systems and forest ecosystems to improve disease detection, management, and ecosystem health.
+
+His laboratory develops computational approaches for studying viromes, investigates virus–host interactions, and applies high-throughput sequencing to questions in disease ecology, microbial community assembly, and pathogen evolution.
+
+---
+
+## Research Interests
+
+* Virome Ecology
+* Plant Virology
+* Disease Ecology
+* Microbiome Ecology
+* Comparative Genomics
+* Network Analysis
+* Computational Biology
+* Bioinformatics
+* Genomic Epidemiology
+* High-throughput Sequencing
+* Virus–Host Interactions
+
+---
+
+## Education
+
+### Postdoc
+
+Oregon State University
+Botany and Plant Pathology
+
+### Ph.D.
+
+University of Florida
+Plant Pathology
+
+### M.S.
+
+Research Center for Advance Studies (Cinvestav)
+Genetic Engineering, Plant Bioetchnology
+
+### B.S.
+
+Universidad de Guadalajara
+Biology
+
+---
+
+## Professional Appointments
+
+* Assistant Professor of Viral Ecology, The Pennsylvania State University
+* Postdoctoral Scholar, Oregon State University
+* Graduate Research Assistant, University of Florida
+* Research Assistant, University of Florida
+---
+
+## Current Research
+
+The Briseño Lab investigates questions at the interface of ecology, evolution, and genomics, including:
+
+* Virus connectivity within host-associated systems
+* Microbiome and virome interactions
+* Ecology and evolution of plant viromes
+* Virus host impact and comparative genomics 
+* Bioinformatics tool development
+* Pathogen surveillance using high-throughput sequencing
+
+---
+
+## Teaching
+
+* Viral Ecology (PPEM 454)
+* Fundamental of Plant Pathology Mod I and II (PPEM 505)
+---
+
+## Software
+
+Representative software developed by the laboratory includes:
+
+* HoboR https://leboldus-lab.github.io/hoboR/
+* ViNA (Virome Network Analysis, coming soon)
+* Bioinformatics workflows for virome analysis
+
+---
+
+## Selected Publications
+
+*A curated list of representative publications will appear here.*
+
+---
+
+## Professional Service
+
+* Reviewer for scientific journals: APS journals, Nature publishing, Elsevier jorunals, Plos One, among others.
+* Graduate student mentoring
+* Outreach and scientific communication
+
+---
+
+## Awards and Honors
+
+* International Outstandin Achievement at UF (2019)
+* Grinter Awards at UF (2015)
+
+---
+
+## Funding
+
+Coming soon
+
+---
+
+## Collaborations
+
+The laboratory actively collaborates with researchers in plant pathology, microbiome science, ecology, computational biology, and genomics across academic institutions, national laboratories, and international partners.
+

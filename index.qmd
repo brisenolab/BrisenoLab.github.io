@@ -3,26 +3,67 @@ title: ""
 page-layout: full
 ---
 
-:::{.hero}
-
 # Virome Connectivity and Host Systems
 ## Briseño Lab
 
 ## Virome Ecology • Plant Pathology • Bioinformatics
 
+::: {.hero}
+
 Understanding the virome connectivity in agricultural systems and natural ecosystems, and the impact of viruses on their host, implementing comparative genomics, metagenomics, computational biology, and ecological networks.
 
-<div class="hero-buttons">
 
-[Research](research/){.btn .btn-primary}
+::: {.feature-grid}
 
-[People](people/){.btn .btn-secondary}
+::: {.feature-card}
+<a href="research/">
 
-[Publications](publications/){.btn .btn-secondary}
+![](assets/images/homepage/research.png)
 
-[Join the Lab](join/){.btn .btn-secondary}
+### Research
 
-</div>
+Understanding viruses across agricultural and natural ecosystems.
+
+</a>
+:::
+
+::: {.feature-card}
+<a href="people/">
+
+![](assets/images/homepage/people.png)
+
+### People
+
+Meet the scientists, students, and collaborators driving our research.
+
+</a>
+:::
+
+::: {.feature-card}
+<a href="publications/">
+
+![](assets/images/homepage/publication.png)
+
+### Publications
+
+Explore our latest peer-reviewed research and preprints.
+
+</a>
+:::
+
+::: {.feature-card}
+<a href="software/">
+
+![](assets/images/homepage/software.png)
+
+### Software
+
+Open-source tools for virome ecology, genomics, and bioinformatics.
+
+</a>
+:::
+
+:::
 
 :::
 
