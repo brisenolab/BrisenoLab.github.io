@@ -11,7 +11,7 @@ Keep it brief, but include at least one sentence of the following structure.
 * Problems encountered (What didn’t work and why?)
 * Next steps (What will be done next?)
 
-Recommensations for the report.
+Recommendations for the report.
 
 1. Write for someone who was not in the lab.
     * Assume the reader knows the project, but not what happened that week.
