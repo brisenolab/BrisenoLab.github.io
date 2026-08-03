@@ -1,0 +1,90 @@
+---
+## title: "Patricia Soria Venegas"
+---
+
+# Ph.D. Student Patricia Soria Venegas 
+Department of Plant Pathology and Environmental Microbiology
+The Pennsylvania State University
+
+---
+
+## Contact
+**Office:** 301 Buckhout Laboratory
+**Email:** [pps5656@psu.edu](mailto:pps5656@psu.edu)
+
+* ORCID:https://orcid.org/0009-0009-6447-8680
+* GitHub:https://github.com/patysoriav
+* LinkedIn:https://github.com/patysoriav
+
+---
+
+## Biography
+
+I am a Ph.D. student in the Department of Plant Pathology and Environmental Microbiology at The Pennsylvania State University. I work under the supervision of Dr. Ricardo I. Alcalá Briseño.
+
+My research focuses on fungal virology, with particular emphasis on the discovery, diversity, and functional characterization of mycoviruses associated with fungi exhibiting different trophic lifestyles. I combine molecular biology, high-throughput sequencing, and bioinformatics approaches to investigate how viral infections influence fungal physiology, metabolism, and interactions with the plant-host and the environment.
+
+Before joining Penn State, I obtained my M.Sc. in Plant Biotechnology at CINVESTAV-Irapuato, my project was the development of synthetic bacterial communities and transformation methods for _Bacillus_ species. I received my B.Sc. in Biotechnology Engineering from Universidad Politécnica de Pénjamo, Guanajuato, Mexico.
+
+I enjoy science communication and developing educational content that makes science more accessible to students and the general public.
+
+---
+
+## Research Interests
+
+- Fungal virology
+- Mycovirus discovery and diversity
+- Virus–fungus interactions
+- Plant pathology
+- Bioinformatics and comparative genomics
+- RNA virus evolution
+- Next-generation sequencing
+- Fungal ecology
+- Microbial interactions
+
+---
+
+## Education
+
+**The Pennsylvania State University**  
+Ph.D. in Plant Pathology and Environmental Microbiology  
+2026–Present
+
+Advisor: Dr. Ricardo I. Alcalá Briseño
+
+Research topic:
+*Functional characterization of mycoviruses and their impact on fungal biology across contrasting trophic lifestyles.*
+
+---
+
+**Centro de Investigación y de Estudios Avanzados (CINVESTAV), Unidad Irapuato**
+
+M.S. in Plant Biotechnology
+
+---
+
+**Universidad Politécnica de Pénjamo**
+
+B.S. in Biotechnology Engineering
+
+---
+
+## Current Research
+
+My current research investigates the diversity and biological interactions of mycoviruses associated with fungi representing different ecological lifestyles, including plant pathogens, saprotrophs, and ectomycorrhizal fungi.
+
+Current projects include:
+
+- Identification of novel mycoviruses using high-throughput sequencing.
+- Construction and curation of comprehensive mycovirus databases.
+- Bioinformatic analysis of fungal viromes.
+- Comparative analyses of viral diversity among fungal lifestyles.
+- Functional characterization of virus-induced changes in fungal metabolism.
+- Investigation of host–virus interactions using molecular biology and transcriptomics.
+
+---
+
+## Outreach
+
+I actively engage in science communication through educational content designed for students and the general public. My goal is to make science more accessible, foster curiosity, and inspire the next generation of scientists by promoting scientific literacy and encouraging a greater appreciation for research and discovery.
+
