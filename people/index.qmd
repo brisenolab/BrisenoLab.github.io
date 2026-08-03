@@ -7,7 +7,7 @@ Assistant Professor of Viral Ecology, Department of Plant Pathology and Environm
 
 ### Graduate Students
 
-- [**Patricia Soria Venegas** — Ph.D. Student](patricia_soria.qmd) \
+- [**Patricia Soria Venegas**](graduate/patricia_soria.qmd)  — Ph.D. Student \
 - **Meghan Shoger** — M.S. Student (co-advised with Dr. David M. Beyer)
 
 ### Undergraduate Students
