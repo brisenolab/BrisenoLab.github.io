@@ -26,6 +26,7 @@ https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Po
 
 ## Collaborators
 
-- **Dr. David M. Beyer** — Department of Plant Pathology and Environmental Microbiology; Director, Mushroom Research Center, Penn State
-- **Dr. Tomás A. Rush** — Biosciences Division, Oak Ridge National Laboratory
-- **Dr. Patrick F. Suthers** — Department of Chemical Engineering, Penn State
+- [**Dr. David M. Beyer**](collaborators/david-beyer.qmd) — Department of Plant Pathology and Environmental Microbiology; Director, Mushroom Research Center, Penn State
+- [**Dr. Tomás A. Rush**](collaborators/tomas-rush.qmd) — Biosciences Division, Oak Ridge National Laboratory
+- [**Dr. Patrick F. Suthers**](collaborators/patric-shuthers.qmd) — Department of Chemical Engineering, Penn State
+- [**Dr. Mihail Kantor**](collaborators/mihail-kantor.qmd) Department of Plant Pathology and Environmental Microbiology
