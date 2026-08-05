@@ -7,8 +7,8 @@ Assistant Professor of Viral Ecology, Department of Plant Pathology and Environm
 
 ### Graduate Students
 
-- [**Patricia Soria Venegas**](graduate/patricia_soria.qmd)  — Ph.D. Student \
-- **Meghan Shoger** — M.S. Student (co-advised with Dr. David M. Beyer)
+- [**Patricia Soria Venegas**](graduate/patricia-soria.qmd)  — Ph.D. Student \
+- [**Meghan Shoger**](graduate/meghan-shoger.qmd) — M.S. Student (co-advised with Dr. David M. Beyer)
 
 ### Undergraduate Students
 
@@ -28,5 +28,5 @@ https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Po
 
 - [**Dr. David M. Beyer**](collaborators/david-beyer.qmd) — Department of Plant Pathology and Environmental Microbiology; Director, Mushroom Research Center, Penn State
 - [**Dr. Tomás A. Rush**](collaborators/tomas-rush.qmd) — Biosciences Division, Oak Ridge National Laboratory
-- [**Dr. Patrick F. Suthers**](collaborators/patric-shuthers.qmd) — Department of Chemical Engineering, Penn State
+- [**Dr. Patrick F. Suthers**](collaborators/patrick-suthers.qmd) — Department of Chemical Engineering, Penn State
 - [**Dr. Mihail Kantor**](collaborators/mihail-kantor.qmd) Department of Plant Pathology and Environmental Microbiology
