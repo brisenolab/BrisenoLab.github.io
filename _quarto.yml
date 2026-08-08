@@ -9,6 +9,7 @@ project:
     - "datasets/**"
     - "teaching/**"
     - "news/**"
+    - "publications/**"
     - "join/**"
     - "contact/**"
     - "!legacy_site/**"

@@ -101,8 +101,9 @@ The Briseño Lab investigates questions at the interface of ecology, evolution, 
 
 Representative software developed by the laboratory includes:
 
-* HoboR https://leboldus-lab.github.io/hoboR/
-* ViNA (Virome Network Analysis, coming soon)
+* [hoboR](../software/hobor.qmd) — environmental data processing for HOBO loggers
+* [ViNA](../software/vina.qmd) — Virome Network Analysis tools (in development)
+* [BBioinfo](../software/pipelines.qmd) — viral bioinformatics workflows
 * Bioinformatics workflows for virome analysis
 
 ---
@@ -137,4 +138,3 @@ Coming soon
 ## Collaborations
 
 The laboratory actively collaborates with researchers in plant pathology, microbiome science, ecology, computational biology, and genomics across academic institutions, national laboratories, and international partners.
-

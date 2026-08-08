@@ -1,15 +1,25 @@
 ---
 title: "Publications"
+description: "Peer-reviewed articles, reviews, chapters, and proceedings from the Briseño Lab."
 bibliography: ../references/publications.bib
+csl: ../references/publications.csl
+link-citations: true
 nocite: |
   @*
+toc: false
 ---
 
-Our research spans virome ecology, plant pathology, disease ecology, microbial communities, genomics, and computational biology.
+Our work spans virome ecology, plant pathology, disease ecology, microbial communities, genomics, and computational biology. This page includes **33 peer-reviewed articles, reviews, chapters, and proceedings** published from 2011–2026.
 
+::: {.publication-links}
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=SkBxudIAAAAJ){.btn .btn-primary}
+[ORCID](https://orcid.org/0000-0002-7031-2195){.btn .btn-secondary}
+[Penn State Research Profile](https://pure.psu.edu/en/persons/ricardo-alcal%C3%A1-brise%C3%B1o/){.btn .btn-secondary}
+:::
 
-## Peer-Reviewed Publications
+## Publications
+
+The bibliography was compiled from DOI metadata and is ordered from newest to oldest. DOI links open the publisher record; preprints and duplicate indexing records are omitted.
 
 ::: {#refs}
 :::

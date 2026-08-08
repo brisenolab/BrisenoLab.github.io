@@ -46,7 +46,7 @@ Meet the scientists, students, and collaborators driving our research.
 
 ### Publications
 
-Explore our latest peer-reviewed research and preprints.
+Explore our peer-reviewed research, reviews, chapters, and proceedings.
 
 </a>
 :::
@@ -138,9 +138,35 @@ Understanding emerging diseases affecting forest ecosystems through ecology and 
 
 # Software
 
-- HoboR
-- ViNA
-- Bioinformatics Pipelines
+::: {.software-showcase}
+
+::: {.software-mini-card}
+<span class="software-status status-released">Released · v1.1.0</span>
+
+### [hoboR](software/hobor.qmd)
+
+Process, quality-check, summarize, and visualize HOBO environmental logger data in R.
+:::
+
+::: {.software-mini-card}
+<span class="software-status status-development">In development</span>
+
+### [ViNA](software/vina.qmd)
+
+Analyze connections among viruses, hosts, locations, and ecological communities.
+:::
+
+::: {.software-mini-card}
+<span class="software-status status-active">Active workflows</span>
+
+### [BBioinfo](software/pipelines.qmd)
+
+Assemble, filter, and screen viral sequences with reproducible command-line workflows.
+:::
+
+:::
+
+[Explore all software](software/){.btn .btn-primary}
 
 ---
 

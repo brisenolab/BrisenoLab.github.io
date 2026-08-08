@@ -1,0 +1,54 @@
+---
+title: "BBioinfo"
+description: "Practical command-line workflows for viral sequence discovery and bioinformatics."
+toc: true
+---
+
+<span class="software-status status-active">Active workflows</span>
+
+# Viral bioinformatics building blocks
+
+**BBioinfo** is a collection of practical notes and command-line scripts for detecting viruses in high-throughput sequencing data. It provides an approachable starting point for installing core tools, assembling viral sequences, filtering contigs, constructing reference databases, and screening candidate sequences.
+
+::: {.publication-links}
+[Source code](https://github.com/ricardoi/BBioinfo){.btn .btn-primary}
+[Report an issue](https://github.com/ricardoi/BBioinfo/issues){.btn .btn-secondary}
+:::
+
+## Included workflows
+
+- macOS setup notes for command-line bioinformatics tools.
+- RNA-virus assembly examples using the SPAdes RNA viral module.
+- `subsetfastas.bash`, a reusable script that filters FASTA records by minimum and maximum sequence length.
+- NCBI EDirect queries for constructing mycovirus nucleotide and protein reference sets.
+- BLAST database creation and tabular similarity-search examples.
+- Reproducible conventions for organizing sequence inputs and analysis results.
+
+## Get the workflows
+
+```bash
+git clone https://github.com/ricardoi/BBioinfo.git
+cd BBioinfo
+```
+
+The FASTA filtering utility requires `bioawk`. It accepts common FASTA extensions and writes a new `_subset.fasta` file without modifying the original input:
+
+```bash
+chmod +x scripts/subsetfastas.bash
+scripts/subsetfastas.bash 600 16000 scaffolds.fasta
+```
+
+In this example, only sequences between 600 and 16,000 nucleotides are retained.
+
+## Example analysis path
+
+1. Perform quality control on paired-end sequencing reads.
+2. Assemble candidate RNA-virus contigs with an appropriate assembler and parameters.
+3. Filter assembled sequences to a biologically relevant length range.
+4. Build current nucleotide and protein reference databases from authoritative records.
+5. Screen candidates with nucleotide and translated similarity searches.
+6. Review coverage, alignment quality, genome organization, and taxonomic evidence before reporting a virus.
+
+## Appropriate use
+
+BBioinfo is a collection of research workflows rather than a single versioned software package. Commands should be adapted to the organism, sequencing design, computing environment, and current versions of external tools and databases. Virus identification should not rely on one similarity-search result alone.

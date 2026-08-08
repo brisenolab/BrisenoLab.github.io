@@ -1,0 +1,47 @@
+---
+title: "Teaching"
+description: "Course previews for Virus Ecology and Fundamentals of Phytopathology at Penn State."
+toc: false
+---
+
+Our courses connect foundational theory with current research, scientific literature, data analysis, and collaborative problem-solving. Students learn by discussing evidence, evaluating real pathosystems, and developing research ideas—not only by memorizing terminology.
+
+::: {.teaching-grid}
+
+::: {.course-card}
+![](../assets/images/teaching/virus-ecology-virocell.webp){alt="Conceptual illustration of a virus-infected cell"}
+
+::: {.course-card-body}
+<span class="course-code">PPEM 454 · Fall</span>
+
+## [Virus Ecology](virus-ecology.qmd)
+
+Viruses as ecological and evolutionary forces: diversity, host interactions, epidemics, viromes, metagenomics, and One Health.
+
+<div class="course-tags"><span>Interactive lectures</span><span>Journal discussions</span><span>Research project</span></div>
+
+[View course preview](virus-ecology.qmd){.software-card-link}
+:::
+:::
+
+::: {.course-card}
+![](../assets/images/teaching/fundamentals-plant-pathology.png){alt="Illustration connecting field observations, diagnostics, molecular tools, and collaboration in plant pathology"}
+
+::: {.course-card-body}
+<span class="course-code">PPATH 505 · Spring</span>
+
+## [Fundamentals of Phytopathology](fundamentals-plant-pathology.qmd)
+
+An advanced, evidence-centered examination of disease concepts, pathogen biology, natural history, parasitism, and plant defense.
+
+<div class="course-tags"><span>Case studies</span><span>Primary literature</span><span>Scientific writing</span></div>
+
+[View course preview](fundamentals-plant-pathology.qmd){.software-card-link}
+:::
+:::
+
+:::
+
+::: {.course-note}
+**Course-preview notice:** These pages are representative, public-facing summaries. Official schedules, grading details, assignments, and university policies are provided to enrolled students through the current Penn State syllabus and Canvas course.
+:::

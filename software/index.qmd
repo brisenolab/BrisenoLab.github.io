@@ -1,0 +1,53 @@
+---
+title: "Software"
+description: "Open-source tools and reproducible workflows developed by the Briseño Lab."
+toc: false
+---
+
+The Briseño Lab develops open-source software for environmental data, virome ecology, and viral bioinformatics. Our tools are designed to make complex analyses more reproducible and easier to reuse across research projects.
+
+::: {.software-grid}
+
+::: {.software-card}
+<span class="software-status status-released">Released · v1.1.0</span>
+
+## [hoboR](hobor.qmd)
+
+An R package for importing, cleaning, calibrating, summarizing, and visualizing environmental data from HOBO data loggers.
+
+<div class="software-tags"><span>R</span><span>Environmental data</span><span>MIT</span></div>
+
+[Package details](hobor.qmd){.software-card-link}
+:::
+
+::: {.software-card}
+<span class="software-status status-development">In development</span>
+
+## [ViNA](vina.qmd)
+
+Virome Network Analysis tools for studying connections among viruses, hosts, locations, and ecological communities.
+
+<div class="software-tags"><span>R</span><span>Networks</span><span>Virome ecology</span></div>
+
+[Project details](vina.qmd){.software-card-link}
+:::
+
+::: {.software-card}
+<span class="software-status status-active">Active workflows</span>
+
+## [BBioinfo](pipelines.qmd)
+
+Command-line workflows for viral sequence assembly, FASTA filtering, reference-database construction, and similarity searches.
+
+<div class="software-tags"><span>Shell</span><span>HTS</span><span>Virus discovery</span></div>
+
+[Workflow details](pipelines.qmd){.software-card-link}
+:::
+
+:::
+
+## Open and reproducible research
+
+We share source code, documentation, worked examples, and issue trackers whenever a tool is ready for public use. Released tools can be cited through their package or repository record. Software under active development is labeled clearly so users can distinguish stable releases from emerging methods.
+
+Questions, feature requests, and contributions are welcome through the linked GitHub repositories or the [lab contact page](../contact/).

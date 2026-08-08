@@ -1,0 +1,112 @@
+---
+title: ""
+pagetitle: "PPEM 454 · Virus Ecology | Briseño Lab"
+description: "A course preview covering virus diversity, interactions, epidemiology, viromes, and One Health."
+toc: true
+---
+
+::: {.course-hero}
+::: {.course-hero-copy}
+<span class="course-code">Penn State · Fall semester</span>
+
+# Viruses as ecological and evolutionary forces
+
+Virus Ecology explores how viruses shape—and are shaped by—their hosts, communities, and environments. The course moves from foundational virology and taxonomy to co-infection, host shifts, epidemics, metagenomics, and the global virome.
+
+<div class="course-tags"><span>Interactive lectures</span><span>Paper discussions</span><span>Group project</span><span>Upper-level</span></div>
+:::
+
+::: {.course-hero-image}
+![](../assets/images/teaching/virus-ecology-virocell.webp){alt="Conceptual illustration of a virus-infected cell"}
+
+*A conceptual “virocell” prompts discussion about how infection reorganizes host biology.*
+:::
+:::
+
+## Course overview
+
+Viruses are among the most abundant and diverse biological entities on Earth. They influence organismal health, microbial food webs, biogeochemical cycles, evolution, and disease emergence. In PPEM 454, students examine viruses across bacateria, fungal, plant, animal, human, and environmental systems while learning to connect mechanisms at the cellular level with patterns at population and ecosystem scales.
+
+The course emphasizes active learning through short lectures, group activities, current journal articles, critical-thinking assignments, and a collaborative research proposal.
+
+## Learning outcomes
+
+By the end of the course, students should be able to:
+
+- Explain how viral genomes, replication strategies, and taxonomy relate to ecological function.
+- Compare beneficial, neutral, and pathogenic virus–host relationships.
+- Evaluate how mutation, recombination, selection, co-infection, and host ecology influence viral evolution.
+- Distinguish reservoirs, spillover, host jumps, dead-end hosts, outbreaks, epidemics, and pandemics.
+- Interpret virome and viral-metagenomics studies, including their sampling and analytical limitations.
+- Critically evaluate primary literature and communicate a testable research idea in virus ecology.
+
+## Representative course sequence
+
+::: {.course-outline}
+| Course segment | Representative topics | Student practice |
+|---|---|---|
+| **1 · Viral foundations and diversity** | Virus concepts; ICTV taxonomy; bacteriophages; genome organization; marine and giant viruses | Taxonomy exercises and guided paper discussion |
+| **2 · Interactions and evolution** | Mutation; recombination; viral lifestyles; virus dynamics; host–virus and virus–virus interactions | Compare evolutionary mechanisms and lead a journal discussion |
+| **3 · Epidemiology and emergence** | Infection; mycoviruses; reservoirs; outbreaks; zoonoses; spillover; epidemics and pandemics | Analyze an outbreak or host-shift case study |
+| **4 · Viromes and One Health** | Virome study design; metagenomics; the human and global viromes; One Health applications | Evaluate a virome workflow and develop a research proposal |
+| **Synthesis** | Student projects and cross-system comparisons | Present and defend a collaborative proposal |
+:::
+
+## Learning activities
+
+### Journal-article discussions
+
+Small groups lead discussions of recent research on topics such as bacteriophages, giant viruses, geochemical cycles, mycoviruses, zoonotic viruses, human viromes, and virus evolution. Students practice identifying a paper’s central question, evaluating evidence, and proposing the next experiment.
+
+### Virome and sequence interpretation
+
+Students work with examples that connect genome organization, taxonomic evidence, sequence comparison, and metagenomic discovery. The emphasis is on what an analysis can support—and what it cannot.
+
+### Research proposal
+
+Teams develop a question in virus ecology, identify a knowledge gap, formulate hypotheses, select appropriate methods, anticipate limitations, and present the proposal for peer review.
+
+## Representative assessment structure
+
+::: {.assessment-grid}
+::: {.assessment-item}
+<span>20%</span>
+
+**Discussion and participation**
+:::
+
+::: {.assessment-item}
+<span>10%</span>
+
+**Quizzes and short assignments**
+:::
+
+::: {.assessment-item}
+<span>10%</span>
+
+**Journal-article presentation**
+:::
+
+::: {.assessment-item}
+<span>30%</span>
+
+**Research proposal**
+:::
+
+::: {.assessment-item}
+<span>30%</span>
+
+**Midterm and final assessments**
+:::
+:::
+
+## Core learning resources
+
+- [International Committee on Taxonomy of Viruses](https://ictv.global/report) for current virus classification and nomenclature.
+- [ViralZone](https://viralzone.expasy.org/) for curated virus biology and replication resources.
+- Selected primary literature and contemporary case studies.
+- Selected episodes of [This Week in Virology](https://www.microbe.tv/twiv/) as prompts for evidence evaluation and scientific communication.
+
+::: {.course-note}
+This is a representative course preview. The official semester syllabus, dates, assignments, and policies may change and are distributed to enrolled students through Canvas.
+:::

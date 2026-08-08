@@ -1,0 +1,32 @@
+---
+title: "ViNA"
+description: "Virome Network Analysis tools for ecological and epidemiological research."
+toc: true
+---
+
+<span class="software-status status-development">In development</span>
+
+# Virome Network Analysis
+
+**ViNA** is an emerging collection of methods for studying viromes as ecological networks. The project is designed to help researchers move from virus-detection tables and sample metadata to reproducible analyses of connections among viruses, hosts, vectors, locations, and environmental conditions.
+
+## Scientific scope
+
+Virome datasets are naturally relational: a virus can occur in multiple hosts, a host can carry multiple viruses, and both can be connected across farms, landscapes, or ecological communities. ViNA is being developed to support analyses such as:
+
+- Bipartite host–virus and site–virus networks.
+- Virus co-occurrence and shared-host associations.
+- Network connectivity, specialization, nestedness, and community structure.
+- Comparisons among locations, treatments, seasons, or host groups.
+- Integration of abundance matrices with sample and environmental metadata.
+- Reproducible tables and figures for ecological interpretation.
+
+## Development status
+
+ViNA is **not yet a stable public release**. Methods are currently being consolidated from research scripts into a documented and reusable workflow. Installation instructions and a public source repository will be added when the interface and validation examples are ready.
+
+For collaboration or early access related to a research project, [contact the Briseño Lab](../contact/).
+
+## Related research
+
+The conceptual foundation includes network approaches used by the lab to study plant viromes and broader challenges in plant pathology. See the [publications page](../publications/) for peer-reviewed examples and methodological context.

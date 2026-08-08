@@ -4,20 +4,11 @@ title: "Patrick F. Suthers"
 
 # Dr. Patrick F. Suthers
 
-**Assistant Research Professor**  
-Department of Chemical Engineering  
+**Assistant Research Professor**
+Department of Chemical Engineering
 The Pennsylvania State University
 
----
-
-## Contact
-
-**Office:** 307 Chemical and Biomedical Engineering Building  
-**Email:** [pfs13@psu.edu](mailto:pfs13@psu.edu)
-
-* [Penn State faculty directory](https://www.che.psu.edu/department/faculty-list.aspx)
-* [Penn State Research profile](https://pure.psu.edu/en/persons/patrick-suthers)
-* [ORCID](https://orcid.org/0000-0002-5560-9986)
+* [Penn State faculty directory](https://www.che.psu.edu/department/directory-detail-g.aspx?q=PFS13)
 
 ---
 
@@ -26,83 +17,6 @@ The Pennsylvania State University
 Dr. Patrick F. Suthers is an Assistant Research Professor in the Department of Chemical Engineering at Penn State University. His research focuses on computational systems biology, genome-scale metabolic modeling, metabolic flux analysis, kinetic modeling, and the integration of biological datasets to understand and engineer microbial and plant metabolism.
 
 His work develops and applies mathematical and computational frameworks for analyzing metabolic networks, predicting cellular phenotypes, identifying engineering targets, and improving the biological realism of large-scale models. These approaches support research in biotechnology, sustainable biomanufacturing, bioenergy, and plant systems biology.
-
----
-
-## Research Interests
-
-* Computational systems biology
-* Genome-scale metabolic modeling
-* Metabolic flux analysis
-* Kinetic modeling
-* Resource-allocation models
-* Machine learning for metabolic systems
-* Metabolic engineering
-* Sustainable biomanufacturing
-* Plant and microbial metabolism
-* Multi-omics data integration
-
----
-
-## Education
-
-### Ph.D.
-
-University of Wisconsin–Madison
-
----
-
-## Professional Appointments
-
-* Assistant Research Professor, Department of Chemical Engineering, The Pennsylvania State University
-* Researcher, Department of Chemical Engineering, The Pennsylvania State University
-* Postdoctoral Scholar, Maranas Research Group, The Pennsylvania State University
-
----
-
-## Current Research
-
-Dr. Suthers' research includes:
-
-* Construction and refinement of genome-scale metabolic models
-* Constraint-based and kinetic modeling of metabolic networks
-* Metabolic flux analysis and atom-mapping methods
-* Resource-allocation models for microbial systems
-* Computational prediction of metabolic engineering targets
-* Modeling plant metabolism and stress responses
-* Integration of stoichiometric, thermodynamic, kinetic, and omics data
-
----
-
-## Software and Computational Methods
-
-Representative areas of software and method development include:
-
-* Genome-scale metabolic reconstruction
-* Elementary metabolite unit methods
-* Metabolic flux-analysis algorithms
-* Large-scale kinetic-model parameterization
-* Constraint-based optimization
-* Computational frameworks for plant and microbial metabolism
-
----
-
-## Selected Publications
-
-* *Metabolic flux and resource balance in the oleaginous yeast Rhodotorula toruloides* (2026)
-* *A multi-tissue genome-scale model of Populus trichocarpa elucidates overexpression targets for improving drought tolerance* (2024)
-* *Current state, challenges, and opportunities in genome-scale resource allocation models: A mathematical perspective* (2024)
-* *KETCHUP: Parameterizing large-scale kinetic models using multiple datasets with different reference states* (2024)
-* *Recent advances in constraint- and machine-learning-based metabolic modeling* (2021)
-* *Improved computational performance of metabolic flux analysis using elementary metabolite units and flux coupling* (2010)
-
----
-
-## Professional Service
-
-* Interdisciplinary collaboration in chemical engineering, systems biology, and biotechnology
-* Graduate and postdoctoral mentoring
-* Development of computational resources for biological modeling
 
 ---
 
