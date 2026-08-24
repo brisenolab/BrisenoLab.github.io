@@ -1,0 +1,119 @@
+---
+title: "Research"
+description: "Research in virome connectivity, plant and fungal virus diagnostics, disease epidemiology, and fungal virome ecology."
+page-layout: full
+---
+
+::: {.page-intro}
+## Viruses as connected members of ecosystems (virome connectivity)
+
+The Briseño Lab studies how viruses move among hosts, communities, and environments—and how those connections influence plant, fungal, and ecosystem health. We combine field ecology, high-throughput sequencing, molecular diagnostics, comparative genomics, and network analysis to connect virus discovery with practical questions in agriculture and natural systems.
+:::
+
+::: {.research-nav}
+[Virome connectivity](#virome-connectivity) [Ornamental diagnostics](#ornamental-diagnostics) [Mushroom disease epidemiology](#mushroom-epidemiology) [Fungal viromes](#fungal-viromes)
+:::
+
+## Virome Connectivity Across Agricultural Systems and Natural Ecosystems {#virome-connectivity}
+
+Wild plants, weeds, insects, fungi, and cultivated crops can participate in connected viral communities. This research asks when wild species act as reservoirs, bridges, or sinks for viruses and how land use, season, host diversity, vectors, and environmental conditions reshape those connections. The goal is to understand viral movement before it becomes a crop-health problem and to identify ecological features that support resilient production systems.
+
+::: {.research-detail-grid}
+
+::: {.research-detail}
+### Research questions
+
+- Which viruses are shared between wild and cultivated hosts?
+- Which hosts or vectors are central to viral movement across a landscape?
+- Do diverse field margins reduce transmission risk or create new pathways?
+- How do weather and management practices alter virome connectivity over time?
+:::
+
+::: {.research-detail}
+### Integrated approach
+
+We pair field sampling and host identification with metatranscriptomics, targeted assays, ecological networks, and environmental metadata. Comparative analyses help distinguish persistent background viromes from newly emerging or rapidly expanding viruses.
+:::
+
+:::
+
+### Blueberry systems: an example study framework
+
+Blueberry farms provide a strong model for studying virome connectivity because cultivated *Vaccinium* plants occur near wild relatives, weeds, insects, nematodes, and managed habitats. An example project would survey cultivated blueberries, neighboring wild plants, and potential vectors across Pennsylvania sites and seasons. Viral sequence data would be integrated with host, location, weather, and management information to identify transmission pathways and prioritize viruses for diagnostics and risk assessment.
+
+Potential outcomes include a blueberry-associated virus inventory, maps of shared viruses across crop and noncrop hosts, early-warning diagnostic targets, and evidence-based sampling recommendations for growers and diagnostic laboratories.
+
+## Virus discovery and diagnostics in ornamental plants {#ornamental-diagnostics}
+
+Ornamental crops are propagated and exchanged through highly connected production networks. Viral symptoms may resemble nutrient stress, chemical injury, or mixed infections, while asymptomatic plants can move viruses among greenhouses, nurseries, and landscapes. We develop discovery-to-diagnostic workflows that move from unbiased sequencing to practical, reproducible assays.
+
+::: {.crop-grid}
+
+::: {.crop-card}
+### Dahlia
+
+Dahlias can carry complex mixtures of viruses that produce mosaics, ringspots, distortion, color break, or reduced vigor. Research directions include resolving mixed infections, comparing symptomatic and asymptomatic stock, and designing assays that support clean propagation material.
+:::
+
+::: {.crop-card}
+### Caladium
+
+Caladium research focuses on viruses associated with foliar mosaic, deformation, and quality loss in vegetatively propagated plants. Genomic surveillance can help distinguish known pathogens from divergent viral variants and guide targeted confirmation.
+:::
+
+::: {.crop-card}
+### Other ornamental and specialty crops
+
+The same workflow can support diagnostic questions in greenhouse, nursery, landscape, and specialty-crop systems. Projects may begin with an unexplained symptom, a recurring production problem, or surveillance of apparently healthy propagation material.
+:::
+
+:::
+
+Our diagnostic pipeline can combine symptom documentation, nucleic-acid extraction, high-throughput sequencing, genome assembly, taxonomic placement, primer or probe design, and laboratory validation. Automation and standardized reporting are used to make results easier to reproduce and transfer.
+
+## Epidemiology and emerging diseases of white button mushroom {#mushroom-epidemiology}
+
+Pennsylvania is central to United States white button mushroom (*Agaricus bisporus*) production. The Briseño Lab investigates how mycoviruses and other biological or environmental factors contribute to emerging disease problems in mushroom farms, including syndromes associated with reduced yield, abnormal development, or changes in crop uniformity.
+
+An epidemiological program can connect repeated farm sampling, crop-cycle information, symptom severity, environmental measurements, diagnostic results, and viral genomic variation. These data allow us to ask when an infection becomes detectable, how it persists between crops, whether multiple viruses contribute to disease, and which production practices are associated with increased or reduced risk.
+
+Key goals include:
+
+- characterizing the diversity and distribution of *A. bisporus*-associated viruses in Pennsylvania and other U.S. production regions;
+- developing sensitive, scalable, and automated diagnostic workflows;
+- identifying temporal, spatial, and operational patterns associated with disease emergence; and
+- translating epidemiological evidence into surveillance and management recommendations.
+
+## Fungal viromes {#fungal-viromes}
+
+Fungi host extraordinarily diverse viruses, many of which remain undescribed. Our fungal virome research connects molecular mechanisms with ecological processes and virus evolution.
+
+::: {.fungal-grid}
+
+::: {.fungal-card}
+### Mycoviruses and host metabolism
+
+We investigate how viral infection changes fungal growth, sporulation, stress responses, secondary metabolism, nutrient use, and interactions with plant or mushroom hosts. Comparative phenotyping, transcriptomics, and metabolically informed experiments can reveal when a mycovirus is detrimental, neutral, or beneficial to its fungal host.
+:::
+
+::: {.fungal-card}
+### Ecological dynamics in forest ecosystems
+
+Forest fungi live in complex communities spanning trees, soils, woody debris, and other microbes. We study how mycoviruses are distributed across fungal populations and landscapes, how they move among compatible hosts, and whether they influence fungal competition, pathogenicity, decomposition, or forest disease dynamics.
+:::
+
+::: {.fungal-card}
+### Taxonomy and evolution
+
+Genome discovery and comparative phylogenetics help us classify divergent mycoviruses, identify conserved and novel genome organizations, and reconstruct their evolutionary relationships. This work contributes sequence resources and biological context needed for a more complete taxonomy of fungal viruses.
+:::
+
+:::
+
+::: {.research-callout}
+## Work with us
+
+We welcome conversations with growers, diagnostic laboratories, researchers, students, and industry partners interested in virus ecology, emerging disease, sequencing, or diagnostic development.
+
+[Discuss a research question](../contact/){.btn .btn-primary} [Explore opportunities](../join/){.btn .btn-secondary}
+:::

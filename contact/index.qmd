@@ -1,0 +1,99 @@
+---
+title: "Contact Us"
+description: "Contact the Briseño Lab about research, joining the lab, funding, diagnostics, data, or software."
+page-layout: full
+---
+
+::: {.contact-layout}
+
+::: {.contact-copy}
+## Start a conversation
+
+We welcome thoughtful questions about research collaborations, opportunities to join the lab, funding and proposal development, and diagnostic or computational projects.
+
+**Dr. Ricardo I. Alcalá Briseño**\
+Assistant Professor of Viral Ecology\
+Department of Plant Pathology and Environmental Microbiology\
+The Pennsylvania State University
+
+**Office:** 101 Buckhout Laboratory\
+**Email:** [ria5282@psu.edu](mailto:ria5282@psu.edu)
+
+The form prepares an email in your usual mail application. You will be able to review and send it yourself; no information is stored by this website.
+:::
+
+::: {.contact-panel}
+```{=html}
+<form id="lab-contact-form" class="contact-form">
+  <fieldset>
+    <legend>What would you like to discuss?</legend>
+    <div class="contact-topics">
+      <label><input type="radio" name="topic" value="Research collaboration" checked> <span><strong>Research</strong><small>Projects and collaboration</small></span></label>
+      <label><input type="radio" name="topic" value="Joining the lab"> <span><strong>Joining us</strong><small>Student and researcher opportunities</small></span></label>
+      <label><input type="radio" name="topic" value="Funding and proposals"> <span><strong>Funding</strong><small>Grants and proposal partnerships</small></span></label>
+      <label><input type="radio" name="topic" value="Diagnostics, data, and software"> <span><strong>Diagnostics &amp; data</strong><small>Samples, analysis, and software</small></span></label>
+    </div>
+  </fieldset>
+
+  <div class="form-row">
+    <label for="contact-name">Name <span aria-hidden="true">*</span>
+      <input id="contact-name" name="name" type="text" autocomplete="name" required>
+    </label>
+    <label for="contact-email">Email <span aria-hidden="true">*</span>
+      <input id="contact-email" name="email" type="email" autocomplete="email" required>
+    </label>
+  </div>
+
+  <label for="contact-affiliation">Institution or organization
+    <input id="contact-affiliation" name="affiliation" type="text" autocomplete="organization">
+  </label>
+
+  <label for="contact-subject">Short subject <span aria-hidden="true">*</span>
+    <input id="contact-subject" name="subject" type="text" required placeholder="What would you like to discuss?">
+  </label>
+
+  <label for="contact-message">Message <span aria-hidden="true">*</span>
+    <textarea id="contact-message" name="message" rows="7" required placeholder="Please include the context, your question, and any relevant timeline."></textarea>
+  </label>
+
+  <button type="submit" class="btn btn-primary">Prepare email</button>
+  <p class="form-help" id="form-help">Required fields are marked with an asterisk.</p>
+</form>
+```
+:::
+
+:::
+
+```{=html}
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const form = document.getElementById("lab-contact-form");
+  if (!form) return;
+
+  form.addEventListener("submit", function (event) {
+    event.preventDefault();
+    if (!form.reportValidity()) return;
+
+    const data = new FormData(form);
+    const topic = data.get("topic") || "Website inquiry";
+    const subject = `[${topic}] ${data.get("subject")}`;
+    const body = [
+      `Name: ${data.get("name")}`,
+      `Email: ${data.get("email")}`,
+      `Institution/organization: ${data.get("affiliation") || "Not provided"}`,
+      `Topic: ${topic}`,
+      "",
+      data.get("message")
+    ].join("\n");
+
+    window.location.href = `mailto:ria5282@psu.edu?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+  });
+});
+</script>
+```
+
+::: {.contact-note}
+## Before sending samples or large files
+
+Please email first with a short description of the material, the biological question, and any known diagnostic history. Do not send regulated biological material or confidential data until appropriate arrangements have been confirmed.
+:::

@@ -1,0 +1,78 @@
+---
+title: "Join Us"
+description: "Opportunities to study virus ecology, plant and fungal viromes, epidemiology, diagnostics, and computational biology in the Briseño Lab."
+page-layout: full
+---
+
+::: {.join-hero}
+## Build the science of connected viromes with us
+
+The Briseño Lab welcomes curious, collaborative people who want to understand how viruses shape plants, fungi, agricultural systems, and natural ecosystems. Our projects connect field and laboratory biology with genomics, epidemiology, bioinformatics, and ecological networks.
+
+[Send an inquiry](mailto:ria5282@psu.edu?subject=Brise%C3%B1o%20Lab%20inquiry){.btn .btn-primary} [Use the contact form](../contact/){.btn .btn-secondary}
+:::
+
+## Who should contact us?
+
+We welcome inquiries from prospective graduate students, undergraduate researchers and volunteers, postdoctoral scholars, visiting researchers, and potential collaborators. Opportunities depend on project fit, mentoring capacity, and available funding, but thoughtful inquiries are always encouraged.
+
+::: {.join-grid}
+
+::: {.join-card}
+### Graduate students
+
+Prospective M.S. and Ph.D. students may develop projects in virome ecology, plant or fungal virus discovery, disease ecology, diagnostics, comparative genomics, or computational biology. Students are encouraged to connect fundamental questions with outcomes useful to agriculture, forestry, next generation diagnostics, and ecosystem health.
+:::
+
+::: {.join-card}
+### Undergraduate students and volunteers
+
+Undergraduates can gain experience through focused research activities in the laboratory, greenhouse, field, or computational workspace. Possible experiences include sample organization, molecular workflows, diagnostic assays, sequence analysis, data visualization, and literature synthesis.
+:::
+
+::: {.join-card}
+### Postdoctoral and visiting researchers
+
+Researchers interested in developing fellowships or complementary projects are invited to discuss ideas early. Strong projects often connect expertise across virology, mycology, plant pathology, epidemiology, ecology, statistics, or bioinformatics.
+:::
+
+::: {.join-card}
+### Collaborators and partners
+
+We value collaborations with academic groups, growers, diagnostic laboratories, extension specialists, government agencies, and industry. We are particularly interested in projects where genomics and ecological evidence can improve disease detection or decision-making.
+:::
+
+:::
+
+## What you can learn
+
+Depending on the project, lab members may gain experience with:
+
+::: {.skill-list}
+- field and production-system sampling
+- plant, fungal, and environmental nucleic-acid workflows
+- PCR-based diagnostics and assay development
+- high-throughput sequencing and genome assembly
+- virome characterization and comparative genomics
+- epidemiological study design and ecological networks
+- reproducible analysis in R and command-line environments
+- scientific writing, visualization, presentations, and teamwork
+:::
+
+## How to inquire
+
+Email **Dr. Ricardo I. Alcalá Briseño** at [ria5282@psu.edu](mailto:ria5282@psu.edu) with the subject line **“Briseño Lab inquiry.”** A useful first message should include:
+
+1. your current institution, program, or professional role;
+2. the research questions or lab themes that interest you;
+3. relevant experience—or skills you hope to develop;
+4. your intended start date and type of opportunity; and
+5. a CV or résumé, if available.
+
+You do not need to arrive with every technical skill. We look for intellectual curiosity, reliability, willingness to learn, clear communication, and respect for collaborative science.
+
+::: {.join-note}
+The Pennsylvania State University and the Briseño Lab are committed to an inclusive research environment. Students and researchers from varied disciplines, identities, and career paths are encouraged to inquire.
+:::
+
+[Contact the lab](../contact/){.btn .btn-primary}

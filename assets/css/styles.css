@@ -718,6 +718,250 @@ hr{
 
 
 /*---------------------------------------------------------
+  Research, Join, and Contact
+---------------------------------------------------------*/
+
+.page-intro,
+.join-hero{
+    background:linear-gradient(135deg,var(--forest-light),#F8FBF8);
+    border:1px solid var(--border);
+    border-radius:18px;
+    margin-bottom:1.5rem;
+    padding:2.4rem;
+}
+
+.page-intro h2,
+.join-hero h2{
+    color:var(--forest);
+    font-size:2rem;
+    margin-top:0;
+}
+
+.page-intro p,
+.join-hero p{
+    font-size:1.08rem;
+    max-width:900px;
+}
+
+.research-nav{
+    display:flex;
+    flex-wrap:wrap;
+    gap:.65rem;
+    margin:1.5rem 0 2.5rem;
+}
+
+.research-nav a{
+    background:var(--surface);
+    border:1px solid var(--border);
+    border-radius:999px;
+    color:var(--forest-dark);
+    font-size:.88rem;
+    font-weight:700;
+    padding:.5rem .85rem;
+    text-decoration:none;
+}
+
+.research-nav a:hover{
+    background:var(--forest);
+    color:white;
+}
+
+.research-detail-grid,
+.join-grid,
+.contact-layout{
+    display:grid;
+    gap:1.4rem;
+    grid-template-columns:repeat(2,minmax(0,1fr));
+    margin:1.5rem 0 2.5rem;
+}
+
+.research-detail,
+.join-card,
+.crop-card,
+.fungal-card{
+    background:var(--surface);
+    border:1px solid var(--border);
+    border-radius:14px;
+    box-shadow:0 3px 10px rgba(0,0,0,.05);
+    padding:1.35rem;
+}
+
+.research-detail h3,
+.join-card h3,
+.crop-card h3,
+.fungal-card h3{
+    color:var(--forest);
+    margin-top:0;
+}
+
+.crop-grid,
+.fungal-grid{
+    display:grid;
+    gap:1.2rem;
+    grid-template-columns:repeat(3,minmax(0,1fr));
+    margin:1.5rem 0 2rem;
+}
+
+.research-callout,
+.join-note,
+.contact-note{
+    background:var(--forest-light);
+    border:1px solid var(--border);
+    border-left:5px solid var(--forest);
+    border-radius:12px;
+    margin:2.5rem 0;
+    padding:1.4rem 1.5rem;
+}
+
+.research-callout h2,
+.contact-note h2{
+    color:var(--forest);
+    margin-top:0;
+}
+
+.research-callout .btn,
+.join-hero .btn{
+    display:inline-block;
+    margin:.35rem .45rem .25rem 0;
+}
+
+.skill-list ul{
+    columns:2;
+    column-gap:2.5rem;
+}
+
+.skill-list li{
+    break-inside:avoid;
+    margin-bottom:.45rem;
+}
+
+.contact-layout{
+    align-items:start;
+    grid-template-columns:minmax(260px,.72fr) minmax(0,1.28fr);
+}
+
+.contact-copy{
+    background:var(--forest-light);
+    border:1px solid var(--border);
+    border-radius:16px;
+    padding:1.6rem;
+}
+
+.contact-copy h2{
+    color:var(--forest);
+    margin-top:0;
+}
+
+.contact-panel{
+    background:var(--surface);
+    border:1px solid var(--border);
+    border-radius:16px;
+    box-shadow:0 5px 18px rgba(0,0,0,.07);
+    padding:1.6rem;
+}
+
+.contact-form fieldset{
+    border:0;
+    margin:0 0 1.25rem;
+    padding:0;
+}
+
+.contact-form legend{
+    font-weight:750;
+    margin-bottom:.8rem;
+}
+
+.contact-topics{
+    display:grid;
+    gap:.65rem;
+    grid-template-columns:repeat(2,minmax(0,1fr));
+}
+
+.contact-topics label{
+    cursor:pointer;
+    margin:0;
+    position:relative;
+}
+
+.contact-topics input{
+    height:1px;
+    opacity:0;
+    position:absolute;
+    width:1px;
+}
+
+.contact-topics span{
+    background:#F8FAF8;
+    border:2px solid var(--border);
+    border-radius:10px;
+    display:block;
+    min-height:82px;
+    padding:.8rem;
+}
+
+.contact-topics small{
+    color:var(--text-light);
+    display:block;
+    line-height:1.35;
+    margin-top:.2rem;
+}
+
+.contact-topics input:checked + span{
+    background:var(--forest-light);
+    border-color:var(--forest);
+}
+
+.contact-topics input:focus-visible + span{
+    outline:3px solid rgba(30,64,124,.3);
+    outline-offset:2px;
+}
+
+.form-row{
+    display:grid;
+    gap:1rem;
+    grid-template-columns:repeat(2,minmax(0,1fr));
+}
+
+.contact-form > label,
+.form-row label{
+    display:block;
+    font-weight:650;
+    margin-bottom:1rem;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea{
+    background:white;
+    border:1px solid #AEBDB2;
+    border-radius:8px;
+    display:block;
+    font:inherit;
+    margin-top:.35rem;
+    padding:.65rem .75rem;
+    width:100%;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus{
+    border-color:var(--psu-blue);
+    box-shadow:0 0 0 3px rgba(30,64,124,.14);
+    outline:none;
+}
+
+.contact-form textarea{
+    resize:vertical;
+}
+
+.form-help{
+    color:var(--text-light);
+    display:inline-block;
+    font-size:.84rem;
+    margin:0 0 0 .8rem;
+}
+
+
+/*---------------------------------------------------------
   Responsive
 ---------------------------------------------------------*/
 
@@ -732,7 +976,9 @@ hr{
     .software-grid,
     .software-showcase,
     .news-grid,
-    .recent-publications{
+    .recent-publications,
+    .crop-grid,
+    .fungal-grid{
         grid-template-columns:repeat(2,minmax(0,1fr));
     }
 
@@ -767,7 +1013,14 @@ hr{
     .software-grid,
     .software-showcase,
     .news-grid,
-    .recent-publications{
+    .recent-publications,
+    .research-detail-grid,
+    .join-grid,
+    .crop-grid,
+    .fungal-grid,
+    .contact-layout,
+    .contact-topics,
+    .form-row{
         grid-template-columns:1fr;
     }
 
@@ -779,6 +1032,15 @@ hr{
 
     .course-hero{
         padding:1.4rem;
+    }
+
+    .page-intro,
+    .join-hero{
+        padding:1.5rem;
+    }
+
+    .skill-list ul{
+        columns:1;
     }
 
     .course-hero-copy h1{
