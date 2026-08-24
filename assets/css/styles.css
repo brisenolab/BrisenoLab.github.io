@@ -960,6 +960,46 @@ hr{
     margin:0 0 0 .8rem;
 }
 
+.form-honeypot{
+    height:1px;
+    left:-10000px;
+    overflow:hidden;
+    position:absolute;
+    top:auto;
+    width:1px;
+}
+
+.contact-form button:disabled{
+    cursor:wait;
+    opacity:.72;
+}
+
+.form-status{
+    border-radius:8px;
+    font-size:.94rem;
+    font-weight:650;
+    margin-top:1rem;
+    min-height:1.5rem;
+    padding:0;
+}
+
+.form-status.is-success,
+.form-status.is-error{
+    padding:.75rem .9rem;
+}
+
+.form-status.is-success{
+    background:var(--forest-light);
+    border:1px solid var(--forest);
+    color:var(--forest-dark);
+}
+
+.form-status.is-error{
+    background:#FFF1F0;
+    border:1px solid #B53A32;
+    color:#84251F;
+}
+
 
 /*---------------------------------------------------------
   Responsive
