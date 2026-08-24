@@ -132,7 +132,51 @@ Understanding emerging diseases affecting forest ecosystems through ecology and 
 
 # Latest News
 
-*Website under construction.*
+::: {.news-grid}
+
+::: {.news-card}
+<span class="news-date">August 2026</span>
+
+### [Plant Health 2026 in Providence](news/#plant-health-2026)
+
+Ricardo presented a Briseño Lab poster at the American Phytopathological Society's annual meeting, marking his tenth year attending APS meetings.
+:::
+
+::: {.news-card}
+<span class="news-date">Fall 2026</span>
+
+### [Meghan Shoger joins the lab](news/#meghan-shoger)
+
+Incoming master's student Meghan Shoger will study the epidemiology of white button mushroom mycoviruses and automation for diagnostics.
+:::
+
+::: {.news-card}
+<span class="news-date">Summer 2026</span>
+
+### [Reece P. Kiesling joins as a student volunteer](news/#reece-kiesling)
+
+Reece is contributing to research at the intersection of plant-parasitic nematodes and blueberry production systems.
+:::
+
+::: {.news-card}
+<span class="news-date">2026</span>
+
+### [Patricia Soria awarded SECIHTI scholarship](news/#patricia-soria)
+
+The competitive scholarship will support Patricia's Ph.D. studies and ongoing research in the Briseño Lab.
+:::
+
+::: {.news-card}
+<span class="news-date">January 2026</span>
+
+### [PAG 33 in San Diego](news/#pag-2026)
+
+Ricardo presented “La France Disease 2.0,” a talk on new viral players associated with disease in white button mushroom.
+:::
+
+:::
+
+[Read all lab news](news/){.btn .btn-secondary}
 
 ---
 
@@ -172,10 +216,46 @@ Assemble, filter, and screen viral sequences with reproducible command-line work
 
 # Recent Publications
 
-_Publications will appear here._
+::: {.recent-publications}
+
+::: {.recent-publication}
+<span class="publication-year">2026 · mSystems</span>
+
+### [The interaction between Septoria stem canker and the mycobiome of *Populus trichocarpa* stems](https://doi.org/10.1128/msystems.00055-26)
+
+Miller, M. G. A., Bergmann, G. E., Alcalá Briseño, R. I., *et al.*
+:::
+
+::: {.recent-publication}
+<span class="publication-year">2026 · Scientific Reports</span>
+
+### [Metatranscriptomics analysis reveals the cotton virome in the southern United States](https://doi.org/10.1038/s41598-026-40828-5)
+
+Escalante, C., Reyes, A. M., Zhao, C., *et al.*
+:::
+
+::: {.recent-publication}
+<span class="publication-year">2026 · Virology</span>
+
+### [*Cryptostroma corticale*, a plant pathogen associated with a human immune respiratory syndrome displaying mixed viral infections of mycoviruses](https://doi.org/10.1016/j.virol.2026.110815)
+
+Alcalá Briseño, R. I., Feau, N., Gomez-Gallego, M., *et al.*
+:::
+
+::: {.recent-publication}
+<span class="publication-year">2026 · Microbial Genomics</span>
+
+### [The poplar pathogen *Sphaerulina musiva* has a dynamic genome architecture marked by chromosomal inversions and changes in transposable element abundance](https://doi.org/10.1099/mgen.0.001603)
+
+Zaccaron, A. Z., Lassagne, A., Søndreli, K. L., *et al.*
+:::
+
+:::
+
+[View all publications](publications/){.btn .btn-primary}
 
 ---
 
 # Funding
 
-Research conducted in the Briseño Lab is supported by The Pennsylvania State University and external funding agencies.
+Research conducted in the Briseño Lab is supported by The Pennsylvania State University and the USDA-NIFA SCRI.

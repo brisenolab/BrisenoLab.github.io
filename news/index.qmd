@@ -1,0 +1,54 @@
+---
+title: "Lab News"
+description: "News, people, presentations, and recognition from the Briseño Lab."
+---
+
+Updates from the Briseño Lab at Penn State—new people, scientific meetings, presentations, publications, and awards.
+
+## Plant Health 2026: ten years of APS meetings {#plant-health-2026}
+
+<span class="news-date">August 1–4, 2026 · Providence, Rhode Island</span>
+
+Ricardo presented at the **Plant Health 2026**, the annual meeting of the American Phytopathological Society (APS), at the Rhode Island Convention Center.
+
+The Briseño Lab and the Mushroom research center co-authored a poster about the emerging mycoviruses in white button mushroom titled: "Mycovirus in Agaricus bisporus: new viral players in white button mushroom production in Pennsylvania."
+
+The meeting was also a personal milestone: **2026 marked his tenth year attending APS meetings** and participating in this scientific community.
+
+[Learn more about Plant Health 2026](https://www.apsnet.org/meetings/annual/PH2026/Pages/default.aspx){.news-link}
+
+---
+
+## Reece P. Kiesling joins the lab as a student volunteer {#reece-kiesling}
+
+<span class="news-date">Summer 2026</span>
+
+We welcome **Reece P. Kiesling**, who joined the Briseño Lab this summer as a student volunteer. Reece is contributing to research involving **plant-parasitic nematodes in wild blueberry and productive systems**, gaining experience with plant-health research while helping the lab explore questions at the intersection of pathogens, hosts, and agricultural environments.
+
+---
+
+## Meghan Shoger will join the lab this fall {#meghan-shoger}
+
+<span class="news-date">Fall 2026</span>
+
+We are delighted to welcome **Meghan Shoger** as an incoming master's student. Meghan will investigate the **epidemiology of mycoviruses associated with white button mushroom (*Agaricus bisporus*)** and develop approaches for **diagnostics automation**. Her work will connect disease ecology, virome research, and reproducible diagnostic workflows to support mushroom health and production.
+
+---
+
+## Patricia Soria receives a competitive SECIHTI scholarship {#patricia-soria}
+
+<span class="news-date">2026 · Student recognition</span>
+
+Congratulations to [**Patricia Soria**](../people/graduate/patricia-soria.qmd), who was awarded a competitive scholarship from **SECIHTI** to fund her Ph.D. studies. This recognition supports Patricia's doctoral training and research and reflects the promise and quality of her work. The Briseño Lab and the PPEM department celebrates this outstanding achievement.
+
+---
+
+## PAG 33: new viral players in La France disease {#pag-2026}
+
+<span class="news-date">January 9–14, 2026 · San Diego, California</span>
+
+Ricardo attended the **33rd International Plant and Animal Genome Conference (PAG 33)** in San Diego. PAG is a major international ag-genomics meeting that convenes researchers for scientific sessions, workshops, posters, and technology exhibits focused on advances in plant and animal genome research.
+
+In the Exploring Phytobiomes workshop, Ricardo presented **“La France Disease 2.0: Same Old Symptoms, New Viral Players in *Agaricus bisporus*.”** The talk highlighted emerging insights into the viruses associated with white button mushroom disease and their implications for understanding complex disease systems, diagnostics, and mushroom health.
+
+[Explore the PAG 33 meeting archive](https://intlpag.org/PAG33/){.news-link}

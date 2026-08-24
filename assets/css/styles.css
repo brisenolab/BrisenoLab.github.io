@@ -460,6 +460,80 @@ hr{
 
 
 /*---------------------------------------------------------
+  News and Homepage Publications
+---------------------------------------------------------*/
+
+.news-grid{
+    display:grid;
+    gap:1.25rem;
+    grid-template-columns:repeat(2,minmax(0,1fr));
+    margin:2rem 0;
+}
+
+.news-card,
+.recent-publication{
+    background:var(--surface);
+    border:1px solid var(--border);
+    border-radius:14px;
+    box-shadow:0 3px 10px rgba(0,0,0,.06);
+    padding:1.35rem;
+    transition:.22s ease;
+}
+
+.news-card:hover,
+.recent-publication:hover{
+    border-color:var(--forest);
+    box-shadow:0 10px 22px rgba(0,0,0,.1);
+    transform:translateY(-3px);
+}
+
+.news-card h3,
+.recent-publication h3{
+    font-size:1.08rem;
+    line-height:1.4;
+    margin:.7rem 0 .5rem;
+}
+
+.news-card h3 a,
+.recent-publication h3 a{
+    color:var(--forest);
+    text-decoration:none;
+}
+
+.news-card p,
+.recent-publication p{
+    color:var(--text-light);
+    line-height:1.55;
+    margin-bottom:0;
+}
+
+.news-date,
+.publication-year{
+    color:var(--forest-dark);
+    display:inline-block;
+    font-size:.76rem;
+    font-weight:750;
+    letter-spacing:.035em;
+    text-transform:uppercase;
+}
+
+.recent-publications{
+    display:grid;
+    gap:1rem;
+    grid-template-columns:repeat(2,minmax(0,1fr));
+    margin:2rem 0;
+}
+
+.news-link{
+    font-weight:700;
+}
+
+.news-link::after{
+    content:" →";
+}
+
+
+/*---------------------------------------------------------
   Teaching
 ---------------------------------------------------------*/
 
@@ -656,7 +730,9 @@ hr{
     }
 
     .software-grid,
-    .software-showcase{
+    .software-showcase,
+    .news-grid,
+    .recent-publications{
         grid-template-columns:repeat(2,minmax(0,1fr));
     }
 
@@ -689,7 +765,9 @@ hr{
     }
 
     .software-grid,
-    .software-showcase{
+    .software-showcase,
+    .news-grid,
+    .recent-publications{
         grid-template-columns:1fr;
     }
 

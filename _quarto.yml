@@ -37,6 +37,9 @@ website:
       - href: teaching/
         text: Teaching
 
+      - href: news/
+        text: News
+
       - href: join/
         text: Join Us
 
@@ -51,3 +54,12 @@ format:
     css: assets/css/styles.css
     toc: true
     anchor-sections: false
+
+website:
+  title: "Briseño Lab"
+
+  google-analytics:
+    tracking-id: "G-AB12CDE345"
+    anonymize-ip: true
+
+  cookie-consent: true
