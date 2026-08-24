@@ -17,6 +17,12 @@ project:
 website:
   title: "Briseño Lab"
 
+  google-analytics:
+    tracking-id: "G-AB12CDE345"
+    anonymize-ip: true
+
+  cookie-consent: true
+
   navbar:
     left:
       - href: index.qmd
@@ -54,12 +60,3 @@ format:
     css: assets/css/styles.css
     toc: true
     anchor-sections: false
-
-website:
-  title: "Briseño Lab"
-
-  google-analytics:
-    tracking-id: "G-AB12CDE345"
-    anonymize-ip: true
-
-  cookie-consent: true
