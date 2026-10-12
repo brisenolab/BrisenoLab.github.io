@@ -5,6 +5,7 @@ _site/
 *.Rproj
 .Rhistory
 .RData
+.key
 
 /.quarto/
 **/*.quarto_ipynb
