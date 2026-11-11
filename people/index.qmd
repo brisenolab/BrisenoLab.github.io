@@ -7,16 +7,25 @@ Assistant Professor of Viral Ecology, Department of Plant Pathology and Environm
 
 ### Graduate Students
 
-- [**Patricia Soria Venegas**](graduate/patricia-soria.qmd)  — Ph.D. Student \
+::: {.person-summary}
+![](../pictures/PatriciaSoria.jpeg){.person-photo alt="Portrait of Patricia Soria Venegas" fig-alt="Portrait of Patricia Soria Venegas"}
+
+[**Patricia Soria Venegas**](graduate/patricia-soria.qmd) — Ph.D. Student
+:::
+
 - [**Meghan Shoger**](graduate/meghan-shoger.qmd) — M.S. Student (co-advised with Dr. David M. Beyer)
 
 ### Undergraduate Students
 
-- **Reece P. Porter** — Undergraduate Volunteer
+- **Reece P. Kiesling** — Undergraduate Volunteer
 
 ### Staff
 
-- **Serenity Mathews** — Laboratory Manager, Mushroom Research Center (MRC)
+::: {.person-summary}
+![](../pictures/SerenityMathews.jpg){.person-photo alt="Portrait of Serenity Mathews" fig-alt="Portrait of Serenity Mathews"}
+
+[**Serenity Mathews**](staff/serenity-mathews.qmd) — Laboratory Manager, Mushroom Research Center (MRC)
+:::
 
 ### Postdoctoral Researchers
 

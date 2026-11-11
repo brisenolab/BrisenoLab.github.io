@@ -3,6 +3,9 @@
 ---
 
 # Ph.D. Student Patricia Soria Venegas 
+
+![](../../pictures/PatriciaSoria.jpeg){.person-photo alt="Portrait of Patricia Soria Venegas" fig-alt="Portrait of Patricia Soria Venegas"}
+
 Department of Plant Pathology and Environmental Microbiology
 The Pennsylvania State University
 
